@@ -1,0 +1,6 @@
+[
+    {"descricao":"POnto turistico 1","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, "latitude": -2.4555, "longitude": -45.085}},
+    {"descricao":"POnto turistico 2","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, "latitude": -2.4555, "longitude": -45.085}}
+    {"descricao":"POnto turistico 3","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, "latitude": -2.4555, "longitude": -45.085}}
+
+]

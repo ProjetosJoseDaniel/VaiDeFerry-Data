@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nome": "Internacional Maritma", 
+        "descricao": "Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e expertise.", 
+        "logo": "imagens/empresas/1/main.png",
+        "horarios": "horarios", 
+        "contato": "(98) 9 8142-7672",
+        "transportaCarro": true
+    },
+    {
+        "id": 2,
+        "nome": "Serviporto", 
+        "descricao": "A SERVI-PORTO Serviços Portuários Ltda é a maior empresa do segmento de transporte aquaviário do Estado do Maranhão. Desenvolve as atividades de Apoio Portuário, Autorizada pela ANTAQ, Resolução n°1211 e do Termo de Autorização n° 500 , e Operadora de Transporte de Travessia para Transporte de Passageiros e Cargas, Autorizada pela Sinfra, Portaria n° 082, de 04 de Outubro de 2013.", 
+        "logo": "imagens/empresas/2/main.png",
+        "horarios": "horarios", 
+        "contato":  "(98)99232 9123",
+        "transportaCarro": true
+    },
+    
+    {
+        "id": 3,
+        "nome": "Henvy", 
+        "descricao": "A Henvil Transportes Marítimos iniciou suas atividades em abril de 1994 com transporte de veículos e passageiros na cidade de Bujarú – PA por meio de concessão do Governo do Estado para prestação de serviços, tornando-se, assim, o único meio de transporte da comunidade deste município. Devido à caminhada de sucesso, responsabilidade e influência no desenvolvimento de uma região, conquistou outras travessias, como: São Domingos do Capim (1994), Inhangapi (1996), Icoaraci/Camará, Salvaterra/Soure, Salvaterra/Cachoeira do Arari, Belém/Arapari (2000).", 
+        "logo": "imagens/empresas/3/main.png",
+        "horarios": "horarios", 
+        "contato":  "(98) 985566767",
+        "transportaCarro": true
+    }
+    
+]
