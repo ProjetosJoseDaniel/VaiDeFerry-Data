@@ -9,7 +9,8 @@
         ]
     },
 
-    {"descricao":"Ponto turistico 2","nome":"Ponto turistico 2","localizacao":{"id":1,"endereco": "","nome": "Rodoviaria Pinheiro","cidade": {"nome": "São Luís","sigla":"slz"}, "latitude": -2.4555, "longitude": -45.085},
+    {"descricao":"Ponto turistico 2","nome":"Ponto turistico 2","localizacao":{"id":1,"endereco": "","nome": "Rodoviaria Pinheiro","cidade": {"nome": "São Luís","sigla":"slz"}, 
+	"latitude": -2.4565, "longitude": -45.075},
     "logo": "imagens/pontoturistico/2/main.png",
         "imagens":[
         {"caminho":"imagens/pontoturistico/2/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
@@ -17,7 +18,8 @@
         {"caminho":"imagens/pontoturistico/2/foto2.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"Ponto turistico 3","descricao":"Ponto turistico 3","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, "latitude": -2.4555, "longitude": -45.085},
+    {"nome":"Ponto turistico 3","descricao":"Ponto turistico 3","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
+	"latitude": -2.4575, "longitude": -45.065},
     "logo": "imagens/pontoturistico/3/main.png",
         "imagens":[
             {"caminho":"imagens/pontoturistico/3/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
@@ -25,7 +27,8 @@
             {"caminho":"imagens/pontoturistico/3/foto2.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"Ponto turistico 4","descricao":"Ponto turistico 4","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, "latitude": -2.4555, "longitude": -45.085},
+    {"nome":"Ponto turistico 4","descricao":"Ponto turistico 4","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
+	"latitude": -2.4585, "longitude": -45.055},
     "logo": "imagens/pontoturistico/4/main.png",
         "imagens":[
             {"caminho":"imagens/pontoturistico/4/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
