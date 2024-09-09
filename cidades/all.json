@@ -1,8 +1,8 @@
 [
-    {"nome": "Pinheiro", "sigla": "pin"},
-    {"nome": "São Luís", "sigla": "slz"},
-    {"nome": "Cojupe", "sigla": "coj"},
-    {"nome": "Alcantara", "sigla": "alc"},
-    {"nome": "São Bento", "sigla": "sbt"},
-    {"nome": "Bequimão", "sigla": "beq"}
+    {"nome": "Pinheiro", "sigla": "pin","descricao":""},
+    {"nome": "São Luís", "sigla": "slz","descricao":""},
+    {"nome": "Cujupe", "sigla": "cuj","descricao":""},
+    {"nome": "Alcantara", "sigla": "alc","descricao":""},
+    {"nome": "São Bento", "sigla": "sbt","descricao":""},
+    {"nome": "Bequimão", "sigla": "beq","descricao":""}
 ]

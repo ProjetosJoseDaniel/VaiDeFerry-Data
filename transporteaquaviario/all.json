@@ -6,7 +6,13 @@
         "logo": "imagens/empresas/1/main.png",
         "horarios": "horarios", 
         "contato": "(98) 9 8142-7672",
-        "transportaCarro": true
+        "transportaCarro": true,
+        "compra_passagem":{"link":"https://www.internacionalmaritima.com.br/","descricao":"Compre sua passagem","fonte":"Site oficial"},
+        "imagens":[
+            {"caminho":"foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+            {"caminho":"foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+            {"caminho":"foto2.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+        ]
     },
     {
         "id": 2,
@@ -15,7 +21,13 @@
         "logo": "imagens/empresas/2/main.png",
         "horarios": "horarios", 
         "contato":  "(98)99232 9123",
-        "transportaCarro": true
+        "transportaCarro": true,
+        "compra_passagem":{"link":"https://www.internacionalmaritima.com.br/","descricao":"Compre sua passagem","fonte":"Site oficial"},
+        "imagens":[
+            {"caminho":"foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+            {"caminho":"foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+            {"caminho":"foto2.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+        ]
     },
     
     {
@@ -23,9 +35,15 @@
         "nome": "Henvy", 
         "descricao": "A Henvil Transportes Marítimos iniciou suas atividades em abril de 1994 com transporte de veículos e passageiros na cidade de Bujarú – PA por meio de concessão do Governo do Estado para prestação de serviços, tornando-se, assim, o único meio de transporte da comunidade deste município. Devido à caminhada de sucesso, responsabilidade e influência no desenvolvimento de uma região, conquistou outras travessias, como: São Domingos do Capim (1994), Inhangapi (1996), Icoaraci/Camará, Salvaterra/Soure, Salvaterra/Cachoeira do Arari, Belém/Arapari (2000).", 
         "logo": "imagens/empresas/3/main.png",
-        "horarios": "horarios", 
+        "horarios": "8:00", 
         "contato":  "(98) 985566767",
-        "transportaCarro": true
+        "transportaCarro": true,
+        "compra_passagem":{"link":"https://www.internacionalmaritima.com.br/","descricao":"Compre sua passagem","fonte":"Site oficial"},
+        "imagens":[
+            {"caminho":"foto1.png","titulo":"Foto 1","descricao":"Foto 1","fonte":""},
+            {"caminho":"foto1.png","titulo":"Foto 2","descricao":" Foto 2","fonte":" "},
+            {"caminho":"foto2.png","titulo":"Foto 3","descricao":" Foto 3","fonte":" "}
+        ]
     }
     
 ]
