@@ -1,6 +1,6 @@
 [
     {"descricao":"Ponto turistico x","nome":"Ponto turistico 1","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, 
-    "latitude": -2.4555, "longitude": -45.085},
+    "latitude": -2.57737, "longitude": -44.36722},
     "logo": "imagens/pontoturistico/1/main.png",
         "imagens":[
         {"caminho":"imagens/pontoturistico/1/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
