@@ -18,7 +18,7 @@
         {"caminho":"imagens/pontoturistico/2/foto2.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"Ponto turistico 3","descricao":"guimaraes","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
+    {"nome":"guimaraes","descricao":"guimaraes","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.13434, "longitude": -44.60692},
     "logo": "imagens/pontoturistico/3/main.png",
         "imagens":[
@@ -27,7 +27,7 @@
             {"caminho":"imagens/pontoturistico/3/foto2.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"Ponto turistico 4","descricao":"São Luís","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
+    {"nome":"São Luís","descricao":"São Luís","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.57744, "longitude": -44.22791},
     "logo": "imagens/pontoturistico/4/main.png",
         "imagens":[
