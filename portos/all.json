@@ -15,6 +15,9 @@
             "latitude": -2.5883,
             "longitude": -44.2825
         },
+    "endereço":{
+        "Distrito Industrial na região do Itaqui, no litoral oeste da Ilha (Baía de São Marcos), a 11 km do centro da cidade."
+    },
     "imagens":[
             {"caminho":"imagens/porto/2/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
             {"caminho":"imagens/porto/2/foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
@@ -37,6 +40,9 @@
             "latitude": -2.3958,
             "longitude": -44.4069
         },
+         "endereço":{
+        "Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil."
+    },
         "imagens":[
             {"caminho":"imagens/porto/2/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
             {"caminho":"imagens/porto/2/foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
