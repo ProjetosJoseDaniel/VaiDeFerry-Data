@@ -1,7 +1,7 @@
 [
     {"descricao":"Ponto turistico x","nome":"alcantara","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, 
     "latitude": -2.398559, "longitude": -44.41368},
-    "logo": "imagens/pontoturistico/1/main.png",
+    "logo": "imagens/pontoturistico/1/alcantara.png",
         "imagens":[
         {"caminho":"imagens/pontoturistico/1/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
         {"caminho":"imagens/pontoturistico/1/foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
@@ -11,7 +11,7 @@
 
     {"descricao":"Ponto turistico 2","nome":"pinheiro","localizacao":{"id":1,"endereco": "","nome": "Rodoviaria Pinheiro","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.52488, "longitude": -45.08579},
-    "logo": "imagens/pontoturistico/2/main.png",
+    "logo": "imagens/pontoturistico/2/pinheiro.png",
         "imagens":[
         {"caminho":"imagens/pontoturistico/2/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
         {"caminho":"imagens/pontoturistico/2/foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
@@ -20,7 +20,7 @@
     },
     {"nome":"guimaraes","descricao":"guimaraes","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.13434, "longitude": -44.60692},
-    "logo": "imagens/pontoturistico/3/main.png",
+    "logo": "imagens/pontoturistico/3/guimaraes.png",
         "imagens":[
             {"caminho":"imagens/pontoturistico/3/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
             {"caminho":"imagens/pontoturistico/3/foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
@@ -29,7 +29,7 @@
     },
     {"nome":"São Luís","descricao":"São Luís","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.57744, "longitude": -44.22791},
-    "logo": "imagens/pontoturistico/4/main.png",
+    "logo": "imagens/pontoturistico/4/sao luis.png",
         "imagens":[
             {"caminho":"imagens/pontoturistico/4/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
             {"caminho":"imagens/pontoturistico/4/foto1.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
