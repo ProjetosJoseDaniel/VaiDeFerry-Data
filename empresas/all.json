@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "nome": "Internacional Maritma", 
+        "nome": "Internacional", 
         "descricao": "Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e expertise.", 
         "logo": "imagens/empresas/1/main.png",
         "horarios": "horarios", 
