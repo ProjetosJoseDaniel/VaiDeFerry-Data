@@ -34,5 +34,11 @@
         "veiculo": {"id":1,"nome":"Veiculo Van","descricao":"","logo":"imagens/empresas/1/main.png","contato":"98 999999999","transportaCarro":false},
         "dias": [1,2,3,4,5,6,7]
     } ,         
-  
+   {
+        "destino":{"id":1,"nome":"Anel Viario","endereco":"Rua 1","cidade":{"nome":"São Luís","sigla":"slz"},"latitude":-2.53073,"longitude":-44.3068},
+        "origem":{"id":2,"nome":"Anel Viario","endereco":"Rua 2","cidade":{"nome":"Pinheiro","sigla":"pin"},"latitude":-2.53073,"longitude":-44.3068},
+        "horarioPartida": "12:00",
+        "veiculo": {"id":1,"nome":"Veiculo Van","descricao":"","logo":"imagens/empresas/1/main.png","contato":"98 999999999","transportaCarro":false},
+        "dias": [1,2,3,4,5,6,7]
+    }
 ]
