@@ -1,6 +1,6 @@
 [
-    {"descricao":"Ponto turistico x","nome":"alcantara","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, 
-    "latitude": -2.398559, "longitude": -44.41368},
+    {"descricao":"A casa é tipo um “museu” do Centro de Lançamento de Alcântara (CLA). Para quem não sabe, a cidade maranhense é desde 1983 sede da base brasileira de lançamento de foguetes. A escolha de Alcântara para sediar o projeto se deve por sua proximidade com a linha do Equador, que segundo os especialistas é favorável para os lançamentos. E apesar de não ter tido nenhum sucesso em seus lançamentos, a base é considerada uma das melhores do mundo, devido a sua vantajosa posição a dois graus da linha do Equador. Dentro da Casa de Cultura Aeroespacial você assiste um vídeo sobre o projeto e conhece tipos de foguete. A entrada é gratuita. Tem maquetes de veículos espaciais lançados da Base de Alcântara e uma réplica em tamanho real do Sonda 4 (modelo brasileiro de foguete). ","nome":"Alcântara","localizacao":{"id":1,"endereco": "Praça Nossa Senhora do Rosário, S/N, Centro","nome": "Casa de Cultura Aeroespacial","cidade": {"nome": "Alcântara","sigla":"alc"}, 
+    "latitude": -2.4039270071166112, "longitude": -44.41478453455313},
     "logo": "imagens/pontoturistico/1/alcantara.jpg",
         "imagens":[
         {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
@@ -9,31 +9,49 @@
         ]
     },
 
-    {"descricao":"Ponto turistico 2","nome":"pinheiro","localizacao":{"id":1,"endereco": "","nome": "Rodoviaria Pinheiro","cidade": {"nome": "São Luís","sigla":"slz"}, 
-	"latitude": -2.52488, "longitude": -45.08579},
+    {"descricao":"Centro Espacial de Alcântara (CEA), anteriormente conhecido como Centro de Lançamento de Alcântara, é um espaçoporto da Agência Espacial Brasileira no município de Alcântara, localizada na costa atlântica norte do Brasil, no estado do Maranhão. É operado pelo Comando da Aeronáutica da Força Aérea Brasileira. O CLA é a base de lançamento mais próxima da linha do equador. Isso confere ao local de lançamento uma vantagem significativa no lançamento de satélites geossíncronos, atributo compartilhado pelo Centro Espacial da Guiana.","nome":"Alcântara","localizacao":{"id":1,"endereco": "Rodovia MA-106, KM 7, S/N, Zona Rural","nome": "Centro Espacial de Alcântara","cidade": {"nome": "Alcântara","sigla":"alc"}, 
+	"latitude": -2.3381076163779624, "longitude": -44.41710935841341},
+    "logo": "imagens/pontoturistico/1/alcantara.jpg",
+        "imagens":[
+        {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+        {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+        {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+        ]
+    },
+    {"nome":"Alcântara","descricao":"A Praça da Matriz, localizada no coração de Alcântara, é um dos principais pontos de encontro na cidade. Ela abriga a Igreja de Nossa Senhora do Rosário dos Pretos, um belo exemplar da arquitetura colonial, e também é cercada por casarões históricos. É um lugar perfeito para relaxar, observar a atmosfera tranquila da cidade e apreciar a vista. A Praça da Matriz é cercada por casarões históricos, que contam a história da região. Essas construções antigas são testemunhas do passado e adicionam charme à praça. A simplicidade e rusticidade da praça rendem boas fotos em diversos ângulos. Se você gosta de capturar momentos históricos, este é o lugar ideal. ","localizacao":{"id":1,"endereco": "Rua das Mercês, 526, Matriz ","nome": "Praça da Matriz de Alcântara","cidade": {"nome": "Alcântara","sigla":"alc"}, 
+	"latitude": -2.4084477850253276, "longitude": -44.41791934284876},
+    "logo": "imagens/pontoturistico/1/alcantara.jpg",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+            {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+            {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+        ]
+    },
+    {"nome":"Pinheiro","descricao":"Localizado na cidade de Pinheiro, famosa pelo carnaval mais animado da baixada maranhense, o Enzo Park Hotel é um ótimo local para se viver bons momentos, pois tem como objetivo oferecer aos seus hóspedes um serviço que preze pela qualidade e excelência. Em uma estadia confortável e aconchegante, você aproveita a paisagem maravilhosa e uma área de lazer única em todo o estado. O Enzo Park Hotel dispõe de bares, piscinas, hall de atendimento, espaço para café da manhã, jardins e animais exóticos. O hotel possui suítes equipadas com ar-condicionado split, tv de LED, frigobar, quartos com varanda e capacidade para 2, 3 ou 4 pessoas. É assim que o Enzo Park Hotel está preparado para ter o privilégio de hospedá-lo.","localizacao":{"id":1,"endereco": "Estrada de Pacas, MA-06","nome": "Enzo Park Hotel","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
+	"latitude": -2.551328736402613, "longitude": -45.152278565468215},
     "logo": "imagens/pontoturistico/2/pinheiro.jpg",
         "imagens":[
-        {"caminho":"imagens/pontoturistico/2/alcantara.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
-        {"caminho":"imagens/pontoturistico/2/alcantara.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
-        {"caminho":"imagens/pontoturistico/2/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"guimaraes","descricao":"guimaraes","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
-	"latitude": -2.13434, "longitude": -44.60692},
-    "logo": "imagens/pontoturistico/3/guimaraes.jpg",
+    {"nome":"Pinheiro","descricao":"Instalado às margens do rio Pericumã no bairro da Matriz, trata-se de um dos maiores parques ambientais urbanos do Maranhão, com 40 mil metros de área construída, 16 edificações e 18 equipamentos de lazer, duas academias de saúde, áreas de convivência e espaços para práticas esportivas, como pistas de corrida, motocross, bicicross, quadras poliesportivas, parquinhos infantis entre outros.","localizacao":{"id":1,"endereco": "Rua José Mariano Costa, 43, Matriz","nome": "Parque Ambiental do Pericumã","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
+	"latitude": -2.5193689823771224, "longitude": -45.07005817478919},
+    "logo": "imagens/pontoturistico/2/pinheiro.jpg",
         "imagens":[
-            {"caminho":"imagens/pontoturistico/3/alcantara.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
-            {"caminho":"imagens/pontoturistico/3/alcantara.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
-            {"caminho":"imagens/pontoturistico/3/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"São Luís","descricao":"São Luís","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
-	"latitude": -2.57744, "longitude": -44.22791},
-    "logo": "imagens/pontoturistico/4/sao luis.jpg",
+    {"nome":"Pinheiro","descricao":"Açaí Club Hotel fica em Pinheiro. Sinta-se em casa em um de nossos 51 quartos com ar-condicionado e TVs de tela plana. Wi-Fi de cortesia está disponível para manter você conectado. Os banheiros apresentam chuveiros. Açaí Club Hotel oferece aos hóspedes deliciosas opções de refeição no um restaurante. Buffet de café da manhã grátis é servido diariamente. Relaxe em uma das 5 piscinas externas ou aproveite outras instalações recreativas, que incluem uma academia.","localizacao":{"id":1,"endereco": "Rua João Paulo II, 486, João Castelo","nome": "Açaí Club Hotel","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
+	"latitude": -2.5328754929958546, "longitude": -45.09058124233675},
+    "logo": "imagens/pontoturistico/2/pinheiro.jpg",
         "imagens":[
-            {"caminho":"imagens/pontoturistico/4/alcantara.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
-            {"caminho":"imagens/pontoturistico/4/falcantara.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
-            {"caminho":"imagens/pontoturistico/4/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     }
 ]
