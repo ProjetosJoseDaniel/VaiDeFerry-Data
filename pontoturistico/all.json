@@ -29,29 +29,29 @@
     },
     {"nome":"Pinheiro","descricao":"Localizado na cidade de Pinheiro, famosa pelo carnaval mais animado da baixada maranhense, o Enzo Park Hotel é um ótimo local para se viver bons momentos, pois tem como objetivo oferecer aos seus hóspedes um serviço que preze pela qualidade e excelência. Em uma estadia confortável e aconchegante, você aproveita a paisagem maravilhosa e uma área de lazer única em todo o estado. O Enzo Park Hotel dispõe de bares, piscinas, hall de atendimento, espaço para café da manhã, jardins e animais exóticos. O hotel possui suítes equipadas com ar-condicionado split, tv de LED, frigobar, quartos com varanda e capacidade para 2, 3 ou 4 pessoas. É assim que o Enzo Park Hotel está preparado para ter o privilégio de hospedá-lo.","localizacao":{"id":1,"endereco": "Estrada de Pacas, MA-06","nome": "Enzo Park Hotel","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
 	"latitude": -2.551328736402613, "longitude": -45.152278565468215},
-    "logo": "imagens/pontoturistico/2/pinheiro.jpg",
+    "logo": "imagens/pontoturistico/2/enzo_park_logo.jpg",
         "imagens":[
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+            {"caminho":"imagens/pontoturistico/2/enzo-park-hotel_vista_aerea.jpg","titulo":"Vista Aérea do Enzo Park Hotel","descricao":"Enzo Park Hotel visto de cima","autor":"Gerência do Enzo Park"},
+            {"caminho":"imagens/pontoturistico/2/enzo-park-hotel_interior.jpg","titulo":"Área de piscinas do Enzo Park","descricao":"Interior do Enzo Park","autor":"Gerência do Enzo Park"},
+            {"caminho":"imagens/pontoturistico/2/enzo-park-hotel_entrada.jpg","titulo":"Entrada do Hotel","descricao":"Foto da Entrada do Hotel","autor":"Gerência do Enzo Park"}
         ]
     },
     {"nome":"Pinheiro","descricao":"Instalado às margens do rio Pericumã no bairro da Matriz, trata-se de um dos maiores parques ambientais urbanos do Maranhão, com 40 mil metros de área construída, 16 edificações e 18 equipamentos de lazer, duas academias de saúde, áreas de convivência e espaços para práticas esportivas, como pistas de corrida, motocross, bicicross, quadras poliesportivas, parquinhos infantis entre outros.","localizacao":{"id":1,"endereco": "Rua José Mariano Costa, 43, Matriz","nome": "Parque Ambiental do Pericumã","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
 	"latitude": -2.5193689823771224, "longitude": -45.07005817478919},
-    "logo": "imagens/pontoturistico/2/pinheiro.jpg",
+    "logo": "imagens/pontoturistico/2/parque_pericuma_logo.jpg",
         "imagens":[
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+            {"caminho":"imagens/pontoturistico/2/apa.jpg","titulo":"Foto do APA","descricao":"Foto do APA","autor":"Prefeitura de Pinheiro"},
+            {"caminho":"imagens/pontoturistico/2/apa_entrada.jpg","titulo":"Foto da entrada do APA","descricao":"Foto da entrda do APA","autor":"Prefeitura de Pinheiro"},
+            {"caminho":"imagens/pontoturistico/2/apa_interior.jpg","titulo":"Foto do APA","descricao":"Foto do APA","autor":"Prefeitura de Pinheiro"}
         ]
     },
     {"nome":"Pinheiro","descricao":"Açaí Club Hotel fica em Pinheiro. Sinta-se em casa em um de nossos 51 quartos com ar-condicionado e TVs de tela plana. Wi-Fi de cortesia está disponível para manter você conectado. Os banheiros apresentam chuveiros. Açaí Club Hotel oferece aos hóspedes deliciosas opções de refeição no um restaurante. Buffet de café da manhã grátis é servido diariamente. Relaxe em uma das 5 piscinas externas ou aproveite outras instalações recreativas, que incluem uma academia.","localizacao":{"id":1,"endereco": "Rua João Paulo II, 486, João Castelo","nome": "Açaí Club Hotel","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
 	"latitude": -2.5328754929958546, "longitude": -45.09058124233675},
-    "logo": "imagens/pontoturistico/2/pinheiro.jpg",
+    "logo": "imagens/pontoturistico/2/acai_club_logo.png",
         "imagens":[
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
-            {"caminho":"imagens/pontoturistico/2/pinheiro.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+            {"caminho":"imagens/pontoturistico/2/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
         ]
     }
 ]
