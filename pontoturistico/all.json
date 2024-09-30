@@ -1,5 +1,5 @@
 [
-    {"descricao":"Ponto turistico x","nome":"alcantara","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, 
+    {"descricao":"Ponto turistico x","nome":"alcantara","contato": "98999999999","localizacao":{"id":1,"endereco": "","nome": "Anel Viario","cidade": {"nome": "São Luís","sigla":"slz"}, 
     "latitude": -2.398559, "longitude": -44.41368},
     "logo": "imagens/pontoturistico/1/alcantara.jpg",
         "imagens":[
@@ -9,7 +9,7 @@
         ]
     },
 
-    {"descricao":"Ponto turistico 2","nome":"pinheiro","localizacao":{"id":1,"endereco": "","nome": "Rodoviaria Pinheiro","cidade": {"nome": "São Luís","sigla":"slz"}, 
+    {"descricao":"Ponto turistico 2","nome":"pinheiro","contato": "98999999999","localizacao":{"id":1,"endereco": "","nome": "Rodoviaria Pinheiro","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.52488, "longitude": -45.08579},
     "logo": "imagens/pontoturistico/2/pinheiro.jpg",
         "imagens":[
@@ -18,7 +18,7 @@
         {"caminho":"imagens/pontoturistico/2/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"guimaraes","descricao":"guimaraes","localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
+    {"nome":"guimaraes","descricao":"guimaraes","contato": "98999999999",,"localizacao":{"id":1,"endereco": "","nome": "Porto Cojupe","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.13434, "longitude": -44.60692},
     "logo": "imagens/pontoturistico/3/guimaraes.jpg",
         "imagens":[
@@ -27,7 +27,7 @@
             {"caminho":"imagens/pontoturistico/3/alcantara.jpg","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
         ]
     },
-    {"nome":"São Luís","descricao":"São Luís","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
+    {"nome":"São Luís","descricao":"São Luís","contato": "98999999999","localizacao":{"id":1,"endereco": "","nome": "Porto Ponta da Espera","cidade": {"nome": "São Luís","sigla":"slz"}, 
 	"latitude": -2.57744, "longitude": -44.22791},
     "logo": "imagens/pontoturistico/4/sao luis.jpg",
         "imagens":[
