@@ -53,5 +53,77 @@
             {"caminho":"imagens/pontoturistico/2/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
             {"caminho":"imagens/pontoturistico/2/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
         ]
+    },
+    {"nome":"Pinheiro","descricao":"A 2 km do Centro, o Parque do Babaçú destaca-se como um espaço dedicado à prática de esportes e lazer, incluindo uma praça de alimentação com restaurante. Referência de lazer para os Pinheirense, o parque do Babaçu foi construído em um local onde predominava as belas palmeiras de babaçu, o que deu nome ao parque.", "localizacao":{"id":1,"endereco": "MA-006","nome": "Parque do Babaçú","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
+	"latitude": -2.5279671993732387, "longitude": -45.09045307118008},
+    "logo": "imagens/pontoturistico/2/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/2/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"Pinheiro","descricao":"Uma das principais praças de Pinheiro está localizada no primeiro bairro da cidade, o local onde a história começou. Nela, encontra-se a Igreja Matriz de Santo Inácio de Loyola, padroeiro do município, que se destaca como um dos principais cartões-postais da cidade. Todos os anos, a igreja se torna o centro das celebrações do Festejo de Santo Inácio, reunindo católicos de toda a região em um importante evento religioso. Construída no início do século XX, a Igreja Matriz é um marco histórico e religioso de grande importância para Pinheiro. Com sua arquitetura imponente, a construção atrai não apenas os fiéis, mas também turistas interessados em sua história e beleza arquitetônica.", "localizacao":{"id":1,"endereco": "R. Beijamin Constant, 1939, Matriz","nome": "Praça da Matriz","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
+	"latitude": -2.5164388090634073, "longitude": -45.074413301591264},
+    "logo": "imagens/pontoturistico/2/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/2/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"Pinheiro","descricao":"A Praça Centenário de Pinheiro, também conhecida como Praça da Família após sua revitalização, é um importante marco histórico e social da cidade. Inaugurada originalmente em 7 de setembro de 1922, para comemorar o centenário da independência do Brasil, essa praça passou por diversas reformas ao longo dos anos. A última grande revitalização foi concluída em 2020, tornando-se um espaço moderno e vibrante para a comunidade. Além de seu valor histórico, a praça foi transformada em um ponto de lazer com áreas para esportes, playgrounds, e uma praça de alimentação, oferecendo também sinal de Wi-Fi gratuito. Ela também funciona como um local para apresentações culturais e eventos públicos, sendo um ponto de encontro popular para os moradores da cidade​", "localizacao":{"id":1,"endereco": "Av. Getúlio Vargas, 670, Centro","nome": "Praça da Família (Centenário)","cidade": {"nome": "Pinheiro","sigla":"pin"}, 
+	"latitude": -2.5228847278258977, "longitude": -45.08370567216673},
+    "logo": "imagens/pontoturistico/2/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/2/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/2/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"São Bento","descricao":"A Igreja Matriz de São Bento, localizada no município de São Bento, Maranhão, é um importante marco religioso e cultural da cidade. Dedicada ao padroeiro São Bento, a igreja é um ponto de referência central para a comunidade local, especialmente durante as celebrações religiosas como o Festejo de São Bento, que acontece anualmente e reúne fiéis de toda a região. É uma das mais belas da cidade, seu interior trabalhado com imagens no teto é uma atração à parte.", "localizacao":{"id":1,"endereco": "Tv. da Matriz, 1183, Matriz","nome": "Igreja Matriz","cidade": {"nome": "São Bento","sigla":"sbt"}, 
+	"latitude": -2.701792067628423, "longitude": -44.82291269681937},
+    "logo": "imagens/pontoturistico/5/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/5/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"São Bento","descricao":"É um espaço público central e de grande importância para a comunidade local. A praça é um ponto de encontro dos moradores e visitantes, oferecendo um espaço para lazer e convivência social. A praça conta com áreas arborizadas, bancos, e serve como palco para eventos e celebrações culturais e religiosas. A localização central faz dela um local muito visitado, tanto para passeios diários quanto para eventos maiores que ocorrem na cidade. É comum que seja utilizada para festas tradicionais e atividades comunitárias, sendo um espaço de destaque na vida social da cidade. Além disso, a Praça Carlos Reis também faz parte do cenário histórico da cidade, com seu nome homenageando uma figura importante da região, reforçando seu valor não apenas como um espaço de lazer, mas também como um marco cultural e histórico de São Bento.", "localizacao":{"id":1,"endereco": "R. Cel. Carneiro de Freitas, 314, Centro","nome": "Praça Carlos Reis","cidade": {"nome": "São Bento","sigla":"sbt"}, 
+	"latitude": -2.701792067628423, "longitude": -44.82291269681937},
+    "logo": "imagens/pontoturistico/5/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/5/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"São Bento","descricao":"O Portal de São Bento, localizado na entrada da cidade, é um dos marcos arquitetônicos que representam a hospitalidade e a cultura local. O portal é um símbolo de boas-vindas para os visitantes. Ele simboliza o orgulho dos habitantes de São Bento, refletindo a identidade e a história da cidade​.", "localizacao":{"id":1,"endereco": "MA-014","nome": "Portal de São Bento","cidade": {"nome": "São Bento","sigla":"sbt"}, 
+	"latitude": -2.700745592347771, "longitude": -44.86182833417808},
+    "logo": "imagens/pontoturistico/5/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/5/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"São Bento","descricao":"Esta praça é conhecida por seu papel central nas celebrações religiosas e eventos culturais da cidade, destacando-se como um ponto de encontro para a comunidade. O espaço é especialmente movimentado durante o festejo de Nossa Senhora dos Remédios, que ocorre anualmente e atrai muitos fiéis e turistas​.", "localizacao":{"id":1,"endereco": "R. Carlos Brenha, 1106, Outra Banda","nome": "Praça do Remedinho","cidade": {"nome": "São Bento","sigla":"sbt"}, 
+	"latitude": -2.6960185073863356, "longitude": -44.82143336926019},
+    "logo": "imagens/pontoturistico/5/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/5/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
+    },
+    {"nome":"São Bento","descricao":"A Casa de Cultura José Adriano da Costa, localizada em São Bento, Maranhão, é um importante espaço dedicado à promoção e valorização da cultura local. Este centro cultural tem como objetivo preservar a memória e as tradições da cidade, promovendo diversas atividades artísticas, culturais e educacionais para a comunidade.", "localizacao":{"id":1,"endereco": "R. Newton Bello, S/N, Matriz","nome": "Casa De Cultura José Adriano Da Costa","cidade": {"nome": "São Bento","sigla":"sbt"}, 
+	"latitude": -2.7007702619795158, "longitude": -44.82337697279572},
+    "logo": "imagens/pontoturistico/5/acai_club_logo.png",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/5/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+            {"caminho":"imagens/pontoturistico/5/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+        ]
     }
 ]
