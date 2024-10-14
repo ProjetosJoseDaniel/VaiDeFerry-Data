@@ -92,11 +92,11 @@
     },
     {"nome":"São Bento","descricao":"É um espaço público central e de grande importância para a comunidade local. A praça é um ponto de encontro dos moradores e visitantes, oferecendo um espaço para lazer e convivência social. A praça conta com áreas arborizadas, bancos, e serve como palco para eventos e celebrações culturais e religiosas. A localização central faz dela um local muito visitado, tanto para passeios diários quanto para eventos maiores que ocorrem na cidade. É comum que seja utilizada para festas tradicionais e atividades comunitárias, sendo um espaço de destaque na vida social da cidade. Além disso, a Praça Carlos Reis também faz parte do cenário histórico da cidade, com seu nome homenageando uma figura importante da região, reforçando seu valor não apenas como um espaço de lazer, mas também como um marco cultural e histórico de São Bento.", "localizacao":{"id":1,"endereco": "R. Cel. Carneiro de Freitas, 314, Centro","nome": "Praça Carlos Reis","cidade": {"nome": "São Bento","sigla":"sbt"}, 
 	"latitude": -2.701792067628423, "longitude": -44.82291269681937},
-    "logo": "imagens/pontoturistico/5/acai_club_logo.png",
+    "logo": "imagens/pontoturistico/5/praca_carlos_reis.jpg",
         "imagens":[
-            {"caminho":"imagens/pontoturistico/5/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Autor Desconhecido"},
-            {"caminho":"imagens/pontoturistico/5/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":" Foto do Interior do Açaí Club","autor":"Autor Desconhecido"},
-            {"caminho":"imagens/pontoturistico/5/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Autor Desconhecido"}
+            {"caminho":"imagens/pontoturistico/5/praca_carlos_reis.jpg","titulo":"Monumento da Praça Carlos Reis","descricao":"Foto do monumento da Praça Carlos Reis","autor":"Autor Desconhecido"},
+            {"caminho":"imagens/pontoturistico/5/praca_carlos_reis2.jpg","titulo":"Praça Carlos Reis","descricao":"Foto da Praça Carlos Reis","autor":"Autor Desconhecido"},
+            {"caminho":"imagens/pontoturistico/5/praca_carlos_reis3.jpg","titulo":"Praça Carlos Reis","descricao":"Foto da Praça Carlos Reis","autor":"Autor Desconhecido"}
         ]
     },
     {"nome":"São Bento","descricao":"O Portal de São Bento, localizado na entrada da cidade, é um dos marcos arquitetônicos que representam a hospitalidade e a cultura local. O portal é um símbolo de boas-vindas para os visitantes. Ele simboliza o orgulho dos habitantes de São Bento, refletindo a identidade e a história da cidade​.", "localizacao":{"id":1,"endereco": "MA-014","nome": "Portal de São Bento","cidade": {"nome": "São Bento","sigla":"sbt"}, 
