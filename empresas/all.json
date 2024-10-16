@@ -55,5 +55,20 @@
             {"caminho":"imagens/empresas/1/foto1.png","titulo":"Foto 3","descricao":" Foto 3","fonte":" "}
         ]
     }
-    
+
+{
+        "id": 6,
+        "nome": " LEO LOBATO", 
+        "descricao": "", 
+        "logo": "imagens/empresas/3/main.png",
+        "horarios": "São Luís: 7:00, 9:00, 14:00, 18:00. Pinheiro 3:00 5:00 10:00 15:00  18:00", 
+        "contato":  "(98) 985566767",
+		"whatsapp": "(98) 985566767",
+		"instagram": "@teste3",
+		"facebook": "",
+        "transportaCarro": false,
+        "compra_passagem":{"link":"","descricao":"","fonte":""},
+        "imagens":[
+        ]
+    }
 ]
