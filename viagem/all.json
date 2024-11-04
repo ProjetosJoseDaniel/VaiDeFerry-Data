@@ -64,6 +64,7 @@
         "dias": ["segunda,terça,quarta,quinta,sexta"]
     } ,      
     {
+<<<<<< adrian_martins
         "origem":{"id":2,"nome":"Ponta da Espera",
         "endereco":"Distrito Industrial na região do Itaqui, no litoral oeste da Ilha (Baía de São Marcos), a 11 km do centro da cidade.",
         "cidade":{"nome":"São Luís","sigla":"slz"},
@@ -110,5 +111,19 @@
         "logo":"imagens/empresas/7/jds.png",
         "contato":"98 984355914 / 98 984124445","transportaCarro":false},
         "dias": ["segunda,terça,quarta,quinta,sexta,sábado"]
+=======
+        "origem":{"id":1,"nome":"Anel Viario","endereco":"Rua 1","cidade":{"nome":"São Luís","sigla":"slz"},"latitude":-2.53073,"longitude":-44.3068},
+        "destino":{"id":2,"nome":"Anel Viario","endereco":"Rua 2","cidade":{"nome":"Pinheiro","sigla":"pin"},"latitude":-2.53073,"longitude":-44.3068},
+        "horarioPartida": "12:00",
+        "veiculo": {"id":1,"nome":"Veiculo Van","descricao":"","logo":"imagens/empresas/1/main.png","contato":"98 999999999","transportaCarro":false},
+        "dias": [1,2,3,4,5,6,7]
+    } ,         
+   {
+        "destino":{"id":1,"nome":"Anel Viario","endereco":"Rua 1","cidade":{"nome":"São Luís","sigla":"slz"},"latitude":-2.53073,"longitude":-44.3068},
+        "origem":{"id":2,"nome":"Anel Viario","endereco":"Rua 2","cidade":{"nome":"Pinheiro","sigla":"pin"},"latitude":-2.53073,"longitude":-44.3068},
+        "horarioPartida": "12:00",
+        "veiculo": {"id":1,"nome":"Veiculo Van","descricao":"","logo":"imagens/empresas/1/main.png","contato":"98 999999999","transportaCarro":false},
+        "dias": [1,2,3,4,5,6,7]
+>>>>>> main
     }
 ]
