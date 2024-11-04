@@ -1,10 +1,10 @@
 [
     {
-        "origem":{"id":1,"nome":"Ponta da Espera",
+        "origem":{"id":2,"nome":"Ponta da Espera",
         "endereco":"Distrito Industrial na região do Itaqui, no litoral oeste da Ilha (Baía de São Marcos), a 11 km do centro da cidade.",
         "cidade":{"nome":"São Luís","sigla":"slz"},
         "latitude":-2.53073,"longitude":-44.3068},
-        "destino":{"id":2,"nome":"Cujupe",
+        "destino":{"id":1,"nome":"Cujupe",
         "endereco":"Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil.",
         "cidade":{"nome":"Alcantara","sigla":"alc"},
         "latitude":-2.53073,"longitude":-44.3068},
@@ -12,8 +12,8 @@
         "veiculo": {"id":1,"nome":"Internacional Maritma",
         "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise",
         "logo":"imagens/empresas/1/main.png",
-        "contato":"98 999999999","transportaCarro":true},
-        "dias": [1,2,3,4,5,6,7]
+        "contato":"98 981427672","transportaCarro":true},
+        "dias": ["segunda,terça,quarta,quinta,sexta,sábado"]
     },
     {
         "origem":{"id":1,"nome":"Cujupe",
@@ -25,27 +25,27 @@
         "cidade":{"nome":"São Luís","sigla":"slz"},
         "latitude":-2.53073,"longitude":-44.3068},
         "horarioPartida": "06:50",
-        "veiculo": {"id":1,"nome":"Internacional Maritma",
-        "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise",
-        "logo":"imagens/empresas/2/main.png",
-        "contato":"98 999999999","transportaCarro":true},
-        "dias": [1,2,3,4,5,6,7]
+        "veiculo": {"id":5,"nome":"oliveira transportes",
+        "descricao":"",
+        "logo":"imagens/empresas/5/olv.png",
+        "contato":"98 98412-6112 / 98 98404-4712","transportaCarro":false},
+       "dias": ["domingo,segunda,terça,quarta,quinta,sexta,sábado"]
     },
     {
-        "origem":{"id":1,"nome":"Ponta da Espera",
+        "origem":{"id":2,"nome":"Ponta da Espera",
         "endereco":"Distrito Industrial na região do Itaqui, no litoral oeste da Ilha (Baía de São Marcos), a 11 km do centro da cidade.",
         "cidade":{"nome":"São Luís","sigla":"slz"},
         "latitude":-2.53073,"longitude":-44.3068},
-        "destino":{"id":2,"nome":"Cujupe",
+        "destino":{"id":1,"nome":"Cujupe",
         "endereco":"Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil.",
         "cidade":{"nome":"Alcantara","sigla":"alc"},
         "latitude":-2.53073,"longitude":-44.3068},
         "horarioPartida": "11:00",
-        "veiculo": {"id":1,"nome":"Internacional Maritma",
-        "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise",
-        "logo":"imagens/empresas/3/main.png",
-        "contato":"98 999999999","transportaCarro":true},
-        "dias": [1,2,3,4,5,6,7]
+        "veiculo": {"id":4,"nome":"leo lobato",
+        "descricao":"A LEO LOBATO TRANSPORTES E TURISMO é uma empresa de micro porte com 12 anos de atuação, localizada em Santa Helena, Maranhão. Ela oferece serviços de transporte rodoviário e locação de veículos.",
+        "logo":"imagens/empresas/4/LB.png",
+        "contato":"","transportaCarro":false},
+        "dias": ["segunda,terça,quarta,quinta,sexta,sábado"]
     },      
     {
         "origem":{"id":1,"nome":"Cujupe",
@@ -57,27 +57,27 @@
         "cidade":{"nome":"São Luís","sigla":"slz"},
         "latitude":-2.53073,"longitude":-44.3068},
         "horarioPartida": "13:50",
-        "veiculo": {"id":1,"nome":"Internacional Maritma",
-        "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise",
-        "logo":"imagens/empresas/1/main.png",
-        "contato":"98 999999999","transportaCarro":true},
-        "dias": [1,2,3,4,5,6,7]
+        "veiculo": {"id":3,"nome":"Henvil",
+        "descricao":"A Henvil Transportes Marítimos iniciou suas atividades em abril de 1994 com transporte de veículos e passageiros na cidade de Bujarú – PA por meio de concessão do Governo do Estado para prestação de serviços, tornando-se, assim, o único meio de transporte da comunidade deste município. Devido à caminhada de sucesso, responsabilidade e influência no desenvolvimento de uma região, conquistou outras travessias, como: São Domingos do Capim (1994), Inhangapi (1996), Icoaraci/Camará, Salvaterra/Soure, Salvaterra/Cachoeira do Arari, Belém/Arapari (2000).",
+        "logo":"imagens/empresas/3/main.png",
+        "contato":"(98) 985566767","transportaCarro":true},
+        "dias": ["segunda,terça,quarta,quinta,sexta"]
     } ,      
     {
-        "origem":{"id":1,"nome":"Ponta da Espera",
+        "origem":{"id":2,"nome":"Ponta da Espera",
         "endereco":"Distrito Industrial na região do Itaqui, no litoral oeste da Ilha (Baía de São Marcos), a 11 km do centro da cidade.",
         "cidade":{"nome":"São Luís","sigla":"slz"},
         "latitude":-2.53073,"longitude":-44.3068},
-        "destino":{"id":2,"nome":"Cujupe",
+        "destino":{"id":1,"nome":"Cujupe",
         "endereco":"Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil.",
         "cidade":{"nome":"Alcantara","sigla":"alc"},
         "latitude":-2.53073,"longitude":-44.3068},
         "horarioPartida": "17:00",
-        "veiculo": {"id":1,"nome":"Internacional Maritma",
-        "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise",
-        "logo":"imagens/empresas/1/main.png",
-        "contato":"98 999999999","transportaCarro":false},
-        "dias": [1,2,3,4,5,6,7]
+        "veiculo": {"id":2,"nome":"Servi-ooporto",
+        "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise", 
+        "logo":"imagens/empresas/2/main.png",
+        "contato":"98 981427672","transportaCarro":true},
+        "dias": [""]
     },
     {
         "origem":{"id":1,"nome":"Cujupe",
@@ -89,10 +89,26 @@
         "cidade":{"nome":"São Luís","sigla":"slz"},
         "latitude":-2.53073,"longitude":-44.3068},
         "horarioPartida": "19:50",
-        "veiculo": {"id":1,"nome":"Internacional Maritma",
-        "descricao":"Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise",
-        "logo":"imagens/empresas/1/main.png",
-        "contato":"98 999999999","transportaCarro":true},
-        "dias": [1,2,3,4,5,6,7]
-    } 
+        "veiculo": {"id":6,"nome":"samica transportes",
+        "descricao":"",
+        "logo":"imagens/empresas/6/smc.png",
+        "contato":"98 98470-544 / 98 98732-7667 / 98 98467-5340","transportaCarro":false},
+        "dias": ["segunda,terça,quarta,quinta,sexta,sábado"]
+    },      
+    {
+        "origem":{"id":2,"nome":"Ponta da Espera",
+        "endereco":"Distrito Industrial na região do Itaqui, no litoral oeste da Ilha (Baía de São Marcos), a 11 km do centro da cidade.",
+        "cidade":{"nome":"São Luís","sigla":"slz"},
+        "latitude":-2.53073,"longitude":-44.3068},
+        "destino":{"id":1,"nome":"Cujupe",
+        "endereco":"Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil.",
+        "cidade":{"nome":"Alcantara","sigla":"alc"},
+        "latitude":-2.53073,"longitude":-44.3068},
+        "horarioPartida": "17:00",
+        "veiculo": {"id":7,"nome":"Jadson Transportes",
+        "descricao":"A jadson transporte se destaca pela qualidade e conforto de seus ônibus, proporcionando uma experiência de viagem excepcional.com um sistema de ar condicionado eficiente, os passageiros podem desfrutar de um ambiente agradável, independente da temperatura externa. com novo ônibus LUXO são equipados com banheiro limpo e acessível, garantido comodidade durante viagens longas.", 
+        "logo":"imagens/empresas/7/jds.png",
+        "contato":"98 984355914 / 98 984124445","transportaCarro":false},
+        "dias": ["segunda,terça,quarta,quinta,sexta,sábado"]
+    }
 ]
