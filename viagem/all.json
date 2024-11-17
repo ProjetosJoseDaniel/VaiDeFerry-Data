@@ -30,9 +30,9 @@
     {
         "origem": {
             "id": 1,
-            "nome": "Cujupe",
-            "endereco": "Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil.",
-            "cidade": {"nome": "Alcantara", "sigla": "alc"},
+            "nome": "Pinheiro",
+            "endereco": "",
+            "cidade": {"nome": "Pinheiro", "sigla": "alc"},
             "latitude": -2.53073,
             "longitude": -44.3068
         },
@@ -66,9 +66,9 @@
         },
         "destino": {
             "id": 1,
-            "nome": "Cujupe",
-            "endereco": "Rua Porto do Cujupe, Alcântara - MA, 65250-000, Brasil.",
-            "cidade": {"nome": "Alcantara", "sigla": "alc"},
+            "nome": "Pinheiro",
+            "endereco": " ",
+            "cidade": {"nome": "Pinheiro", "sigla": "alc"},
             "latitude": -2.53073,
             "longitude": -44.3068
         },
