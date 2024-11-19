@@ -1,13 +1,8 @@
 [
     {
         "id": 1,
-<<<<<< adrian_martins
         "nome": "Internacional Maritma", 
         "descricao": "Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e ex.pertise", 
-=======
-        "nome": "Internacional", 
-        "descricao": "Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e expertise.", 
->>>>>> main
         "logo": "imagens/empresas/1/main.png",
         "horarios": "segunda a sexta - 08:00 ás 12:00 e 14:00 ás 18:00 / sábado - 08:00 ás 12:00 ", 
         "contato": "98 981427672",
@@ -95,10 +90,7 @@
 		"instagram": "jadson_transporte",
 		"facebook": "",
         "transportaCarro": false 
-    }
-<<<<<< adrian_martins
-]
-=======
+    },
 
 {
         "id": 6,
@@ -116,4 +108,4 @@
         ]
     }
 ]
->>>>>> main
+
