@@ -125,5 +125,38 @@
             {"caminho":"imagens/pontoturistico/5/casa_de_cultura3.jpg","titulo":"Vestimentas juninas","descricao":"Foto de vestimentas juninas antigas em exibição","autor":"Autor Desconhecido"},
             {"caminho":"imagens/pontoturistico/5/casa_de_cultura4.jpg","titulo":"Eletrodomésticos antigos","descricao":"Eletrodomésticos antigos em exibição","autor":"Autor Desconhecido"}
         ]
+    },
+    {"nome":"Igreja Nossa Senhora da Conceição","descricao":"Um dos principais monumentos históricos de Viana, que se encontra no centro da cidade.", "localizacao":{"id":1,"endereco": "R. Cel. Campêlo, 1153, Centro","nome": "Igreja Nossa Senhora da Conceição","cidade": {"nome": "Viana","sigla":"via"}, 
+	"latitude": -32.199855142916600, "longitude": 450.001832478311},
+    "logo": "imagens/pontoturistico/8/igreja_viana.jpg",
+        "imagens":[
+            {"caminho":"imagens/pontoturistico/8/vista_aerea_igreja_viana.jpg","titulo":"Vista Aérea da Igreja Nossa Senhora da Conceição","descricao":"Vista de cima da praça onde fica localizada a igreja.","autor":"Autor Desconhecido"},
+            {"caminho":"imagens/pontoturistico/8/igreja_viana.jpg","titulo":"Entrada da Igreja","descricao":"Foto da entrada da Igreja de Nossa Senhora da Conceição","autor":"Autor Desconhecido"},
+            {"caminho":"imagens/pontoturistico/8/igreja_viana2.jpg","titulo":"Foto da Igreja","descricao":"Fto da lateral da Igreja de Nossa Senhora da Conceição","autor":"Autor Desconhecido"}
+        ]
+    },
+    {"nome": "Parque Dilú Melo", "descricao": "O Parque Dilú Melo é um dos principais atrativos de Viana, localizado na região da Baixada Maranhense. Ele oferece passeios náuticos e outras atividades ligadas ao ecoturismo, sendo cercado por uma rica biodiversidade, típica do Pantanal Maranhense. Durante a estação chuvosa, a região se transforma em um imenso campo alagado, proporcionando paisagens deslumbrantes.", "localizacao": {"id":1, "endereco": "R. Prof. Antônio Lopes", "nome": "Parque Dilú Melo", "cidade": {"nome": "Viana", "sigla": "via"}, "latitude": -32.218002648686300, "longitude": -4.499985425580090 },
+        "logo": "imagens/pontoturistico/8/parque_dilumelo2.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/8/vista_cima_parque_dilumelo.jpg", "titulo": "Vista Aérea do Parque Dilú Melo", "descricao": "Imagem tirada à noite do parque.", "autor": "Prefeitura de Viana"},
+	    {"caminho": "imagens/pontoturistico/8/parque_dilumelo2.jpg", "titulo": "Foto do Parque Dilú Melo", "descricao": "Imagem tirada à noite do parque.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/8/parque_dilu_melo3.jpg", "titulo": "Foto de cima do Parque Dilú Melo", "descricao": "Imagem tirada de cima do parque", "autor": "Autor Desconhecido"}
+        ]
+    },
+    {"nome": "Praia do Itapéua", "descricao": "A Praia do Itapéua, em Cajapió, Maranhão, é uma área tranquila na Baixada Maranhense, conhecida por suas águas calmas. É um destino ideal para quem busca descanso e contato com o ambiente natural.", "localizacao": {"id":1, "endereco": "Na região costeira do Rio Mearim", "nome": "Praia do Itapéua", "cidade": {"nome": "Cajapió", "sigla": "caj"}, "latitude": -28.506336251994500, "longitude": -446.343184},
+        "logo": "imagens/pontoturistico/6/praia_itapeua.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/6/praia_itapeua2.jpg", "titulo": "Praia do Itapéua", "descricao":"Imagem da Praia do Itapéua.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/6/praia_itapeua3.jpg", "titulo": "Praia do Itapéua", "descricao": "Imagem da Praia do Itapéua.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/6/praia_itapeua.jpg", "titulo": "Foto do pôr do sol", "descricao": "Imagem tirada do pôr do sol na praia de Itapéua.", "autor": "Autor Desconhecido"}
+        ]
+    },
+    {"nome": "Cais da Alegria de Cajapió", "descricao": "O Cais da Alegria, localizado em Cajapió, Maranhão, é um ponto de grande importância cultural e social para a cidade. Situado às margens do Rio Periá, é um local de lazer, pesca artesanal e comércio de produtos locais.", "localizacao": {"id":1,"endereco": "À beira do Rio Periá","nome": "Cais da Alegria", "cidade": {"nome": "Cajapió", "sigla": "caj"}, "latitude": -28.860115679716200, "longitude": -4.467374831494720},
+        "logo": "imagens/pontoturistico/6/cais_cajapio.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/6/cais_cajapio2.jpg", "titulo": "Pôr do Sol no Cais", "descricao": "Imagem do pôr do sol no cais.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/6/cais_cajapio.jpg", "titulo": "Barco no cais", "descricao": "Imagem de barcos no cais.", "autor": "Autor Desconhecido"},
+            {"caminho": "imagens/pontoturistico/6/cais_cajapio3.jpg", "titulo": "Imagens das águas do cais", "descricao": "Imagem do cais.", "autor": "Autor Desconhecido"}
+        ]
     }
 ]
