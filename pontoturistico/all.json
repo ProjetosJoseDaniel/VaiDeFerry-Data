@@ -158,5 +158,37 @@
 	    {"caminho": "imagens/pontoturistico/6/cais_cajapio.jpg", "titulo": "Barco no cais", "descricao": "Imagem de barcos no cais.", "autor": "Autor Desconhecido"},
             {"caminho": "imagens/pontoturistico/6/cais_cajapio3.jpg", "titulo": "Imagens das águas do cais", "descricao": "Imagem do cais.", "autor": "Autor Desconhecido"}
         ]
+    },
+    {"nome": "Praia de Araoca", "descricao": "A praia de Araoca é uma das mais belas praias do litoral maranhense. Agora, com a pavimentação realizada, a gestão estadual espera desenvolver a região, fomentando o turismo e a geração de renda.", "localizacao": {"id":1,"endereco": "R. da Praia", "nome": "Praia de Araoca", "cidade": {"nome": "Guimarães", "sigla": "gua"}, "latitude": -20.519498656296400, "longitude": -44.498606869823400},
+        "logo": "imagens/pontoturistico/3/praia_araoca_logo.png",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/3/praia_araoca.jpg", "titulo": "Praia de Araoca","descricao": "Imagem da Praia de Araoca","autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/3/praia_araoca2.jpg", "titulo": "Praia de Araoca","descricao": "Imagem da Praia de Araoca","autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/3/praia_aroca3.jpg", "titulo": "Praia de Araoca","descricao": "Imagem da Praia de Araoca","autor": "Autor Desconhecido"}
+        ]
+    },
+    {"nome": "Igreja Matriz de São José", "descricao": "A Igreja Matriz de São José, em Guimarães, Maranhão, é um templo religioso histórico que simboliza a fé e a tradição do povo local. Sua arquitetura colonial preserva traços do período de sua construção.", "localizacao": {"id":1, "endereco": "Rua Dr. Urbano Santos, 75, Centro", "nome": "Igreja Matriz de São José", "cidade": {"nome": "Guimarães", "sigla": "gua"}, "latitude": -21.356890049671600, "longitude": -4.460007834955220},
+        "logo": "imagens/pontoturistico/3/igreja_sao_jose.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/3/padroeiro.jpg", "titulo": "Padroeiro São José", "descricao": "Imagem do santo padroeiro da cidade.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/3/igreja_sao_jose.jpg", "titulo": "Igreja Matriz de São José", "descricao": "Imagem da Igreja Matriz", "autor": "Autor Desconhecido"}
+        ]
+    },
+    {"nome": "Praça Santo Antonio", "descricao": "A Praça Santo Antonio de Palmerândia é um dos principais pontos turísticos da cidade, um espaço que mistura tranquilidade, natureza e a cultura local de forma harmônica. Localizada no coração da cidade, a praça é um local de encontro para moradores e visitantes, oferecendo uma visão acolhedora do estilo de vida simples e tranquilo da região.", "localizacao": {"id": 1, "endereco": "Avenida Marechal Eurico Gaspar Dutra, 330, Centro", "nome": "Praça Santo Antonio", "cidade": {"nome": "Palmeirândia", "sigla": "pld"}, "latitude": -26.455152089787200, "longitude": -4.489520536994620},
+        "logo": "imagens/pontoturistico/7/praça_santoantonio.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/7/praça_santoantonio.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/7/praça_santoantonio2.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/7/praça_santoantonio3.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"}
+        ]
+    },
+    {"nome": "Igreja de Nossa Senhora da Conceição", "descricao": "A Igreja Matriz de Nossa Senhora da Conceição, em Palmeirândia, é uma construção histórica de estilo colonial português. Fundada em 1820 e concluída em 1837, destaca-se por sua arquitetura imponente, pinturas artísticas internas e significância cultural. É um símbolo da fé local e da história religiosa do município.", "localizacao": {"id":1, "endereco": "MA-014, Cruzeiro", "nome": "Igreja de Nossa Senhora da Conceição", "cidade": {"nome": "Palmeirândia", "sigla": "pld"}, "latitude": -2.690458121801590, "longitude": -4.491065614121650
+        },
+        "logo": "imagens/pontoturistico/7/igreja_cruzeiro.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/7/igreja_cruzeiro2.jpg", "titulo": "Igreja de Nossa Senhora da Conceição", "descricao": "Imagem da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/7/igreja_cruzeiro.jpg", "titulo": "Igreja de Nossa Senhora da Conceição", "descricao": "Imagem da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/7/igreja_interior_cruzeiro.jpg", "titulo": "Interior da Igreja de Nossa Senhora da Conceição", "descricao": "Imagem do interior da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"}
+        ]
     }
 ]
