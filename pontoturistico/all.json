@@ -222,5 +222,21 @@
 	{"caminho": "imagens/pontoturistico/10/pracabequimao2.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"},
 	{"caminho": "imagens/pontoturistico/10/pracabequimao3.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"}
     ]
-}
+    },
+    {"nome": "Parque Aquático Aventura", "descricao": "O Aventura Parque é um popular parque aquático localizado no povoado Ventura, na entrada da cidade de Mirinzal, no Maranhão. Ele é considerado um dos principais centros de lazer da região, oferecendo uma infraestrutura completa para visitantes de todas as idades. O parque conta com várias piscinas, brinquedos aquáticos, um bar molhado, além de restaurante e lanchonetes, tornando-se uma opção ideal para os finais de semana e feriados.", "localizacao": {"id": 1, "endereco": "Povoado Ventura Km 02", "nome": "Parque Aquático Aventura", "cidade": {"nome": "Mirinzal", "sigla": "mrz"}, "latitude": -2.107847710947380, "longitude": -4.477992784714470},
+    "logo": "imagens/pontoturistico/11/aventuraparque_logo.jpg",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/11/aventuraparque1.JPG", "titulo": "Parque Aquático Aventura", "descricao": "Imagem do Parque Aventura", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/11/aventuraparque2.JPG", "titulo": "Parque Aquático Aventura", "descricao": "Imagem do Parque Aventura", "autor": "Autor Desconhecido"},
+        {"caminho": "imagens/pontoturistico/11/aventuraparque3.JPG", "titulo": "Parque Aquático Aventura", "descricao": "Imagem do Parque Aventura", "autor": "Autor Desconhecido"}
+    ]
+    },
+    {"nome": "Praça de Eventos de Mirinzal", "descricao": "A praça de eventos de Mirinzal, Maranhão, é um espaço central usado para celebrações e eventos culturais. Conta com um palco para apresentações, área ampla para o público e iluminação adequada, sendo um ponto de encontro para a comunidade.", "localizacao": {"id": 1, "endereco": "Av Governador Antônio Dino", "nome": "Praça de Eventos de Mirinzal", "cidade": {"nome": "Mirinzal", "sigla": "mrz"}, "latitude": -2.067663144589150, "longitude": -44.783236057538100},
+    "logo": "imagens/pontoturistico/11/pracamirinzal_logo.jpeg",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/11/pracamirinzal1.jpg", "titulo": "Praça de Eventos de Mirinzal", "descricao": "Imagem da Praça de Eventos de Mirinzal", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/11/pracamirinzal2.jpg", "titulo": "Praça de Eventos de Mirinzal", "descricao": "Imagem da Praça de Eventos de Mirinzal", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/11/pracamirinzal3.jpg", "titulo": "Praça de Eventos de Mirinzal", "descricao": "Imagem da Praça de Eventos de Mirinzal", "autor": "Autor Desconhecido"}
+    ]
+    }
 ]
