@@ -174,7 +174,7 @@
 	    {"caminho": "imagens/pontoturistico/3/igreja_sao_jose.jpg", "titulo": "Igreja Matriz de São José", "descricao": "Imagem da Igreja Matriz", "autor": "Autor Desconhecido"}
         ]
     },
-    {"nome": "Praça Santo Antonio", "descricao": "A Praça Santo Antonio de Palmerândia é um dos principais pontos turísticos da cidade, um espaço que mistura tranquilidade, natureza e a cultura local de forma harmônica. Localizada no coração da cidade, a praça é um local de encontro para moradores e visitantes, oferecendo uma visão acolhedora do estilo de vida simples e tranquilo da região.", "localizacao": {"id": 1, "endereco": "Avenida Marechal Eurico Gaspar Dutra, 330, Centro", "nome": "Praça Santo Antonio", "cidade": {"nome": "Palmeirândia", "sigla": "pld"}, "latitude": -26.455152089787200, "longitude": -4.489520536994620},
+    {"nome": "Praça Santo Antonio", "descricao": "A Praça Santo Antonio de Palmeirândia é um dos principais pontos turísticos da cidade, um espaço que mistura tranquilidade, natureza e a cultura local de forma harmônica. Localizada no coração da cidade, a praça é um local de encontro para moradores e visitantes, oferecendo uma visão acolhedora do estilo de vida simples e tranquilo da região.", "localizacao": {"id": 1, "endereco": "Avenida Marechal Eurico Gaspar Dutra, 330, Centro", "nome": "Praça Santo Antonio", "cidade": {"nome": "Palmeirândia", "sigla": "pld"}, "latitude": -26.455152089787200, "longitude": -4.489520536994620},
         "logo": "imagens/pontoturistico/7/praça_santoantonio.jpg",
         "imagens": [
             {"caminho": "imagens/pontoturistico/7/praça_santoantonio.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"},
@@ -206,5 +206,21 @@
 	    {"caminho": "imagens/pontoturistico/9/praca_saosebastiao2.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"},
 	    {"caminho": "imagens/pontoturistico/9/praca_saosebastiao3.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"}
 	]
-    }
+    },
+    {"nome": "Cais do Porto", "descricao": "O ambiente é marcado pela presença de embarcações de pequeno e médio porte, com uma movimentação constante de barcaças, canoas e outros tipos de barcos típicos da região.\n\nEm termos de infraestrutura, o cais de Bequimão é simples, mas funcional. Não possui grandes instalações ou serviços como portos de grandes centros urbanos, mas cumpre um papel crucial na ligação da cidade com outras áreas do estado e até mesmo com o litoral, através do sistema fluvial. A área ao redor do cais é relativamente tranquila, cercada por paisagens naturais, como manguezais e vegetação típica de áreas ribeirinhas, que são características da região.\n\nO local também é uma importante via de acesso para turistas e moradores que se deslocam para outras partes do município ou para a capital São Luís, especialmente em períodos de festas tradicionais, quando a movimentação no cais tende a aumentar. Contudo, como a infraestrutura ainda é simples, o cais não é muito utilizado para grandes operações comerciais ou logísticas, sendo mais voltado para atividades de pequeno porte e de circulação local.", "localizacao": {"id": 1, "endereco": "R. Beira Rio, 837-699, Centro", "nome": "Cais do Porto", "cidade": {"nome": "Bequimão", "sigla": "bqm"}, "latitude": -2.450039351574670, "longitude": -4.477995490692650},
+    "logo": "imagens/pontoturistico/10/caisdoporto_logo.jpg",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/10/caisdoporto1.jpg", "titulo": "Cais do Porto", "descricao": "Imagem do Cais do Porto", "autor": "Mellquisedeque Allmeida"},
+	{"caminho": "imagens/pontoturistico/10/caisdoporto2.jpg", "titulo": "Cais do Porto", "descricao": "Imagem do Cais do Porto", "autor": "Mellquisedeque Allmeida"},
+	{"caminho": "imagens/pontoturistico/10/caisdoporto3.jpg", "titulo": "Cais do Porto", "descricao": "Imagem do Cais do Porto", "autor": "Autor Desconhecido"}
+    ]
+    },
+    {"nome": "Praça da Matriz", "descricao": "A Praça da Bíblia é um dos cartões postais do município de Bequimão, no Maranhão, e foi recentemente requalificada pela prefeitura. A praça recebeu ações de limpeza, pintura e iluminação, e a gestão do prefeito João Martins determinou que essas ações serão realizadas de forma permanente.","localizacao": {"id": 1, "endereco": "R. Cap José Castro, Centro", "nome": "Praça da Matriz", "cidade": {"nome": "Bequimão","sigla": "bqm"}, "latitude": -2.449863906894570, "longitude": -44.780566821387700},
+    "logo": "imagens/pontoturistico/10/pracabequimao_logo.png",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/10/pracabequimao1.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/10/pracabequimao2.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/10/pracabequimao3.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"}
+    ]
+}
 ]
