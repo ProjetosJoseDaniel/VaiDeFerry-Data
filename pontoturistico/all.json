@@ -190,5 +190,21 @@
 	    {"caminho": "imagens/pontoturistico/7/igreja_cruzeiro.jpg", "titulo": "Igreja de Nossa Senhora da Conceição", "descricao": "Imagem da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"},
 	    {"caminho": "imagens/pontoturistico/7/igreja_interior_cruzeiro.jpg", "titulo": "Interior da Igreja de Nossa Senhora da Conceição", "descricao": "Imagem do interior da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"}
         ]
+    },
+    {"nome": "Estátua de São Sebastião", "descricao": "É um ponto localizado no morro mais alto da cidade, onde fica localizado o padroeiro da cidade, São Sebastião.","localizacao": {"id": 1, "endereco": "Morro de São Sebastião, s/n, Centro", "nome": "Estátua de São Sebastião", "cidade": {"nome": "Peri-Mirim", "sigla": "pim"}, "latitude": -2.577064090403940, "longitude": -4.485611153437540},
+        "logo": "imagens/pontoturistico/9/saosebastiao_logo.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/9/saosebastiao1.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/saosebastiao2.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/saosebastiao3.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"}
+	]
+    },
+    {"nome": "Praça de São Sebastião", "descricao": "A Praça de São Sebastião é um espaço público central, ideal para convivência e lazer. Com uma igreja histórica como destaque, a praça oferece áreas abertas e acessíveis, tornando-se um ponto de encontro para eventos, passeios e atividades comunitárias.", "localizacao": {"id": 1, "endereco": "Av. Duque de Caxias, Centro", "nome": "Praça de São Sebastião", "cidade": {"nome": "Peri-Mirim", "sigla": "pim"}, "latitude": -25.777238730299100, "longitude": -4.485419462564500},
+        "logo": "imagens/pontoturistico/9/praca_saosebastiao_logo.png",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/9/praca_saosebastiao1.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/praca_saosebastiao2.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/praca_saosebastiao3.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"}
+	]
     }
 ]
