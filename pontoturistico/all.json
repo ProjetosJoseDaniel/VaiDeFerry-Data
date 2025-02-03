@@ -15,7 +15,7 @@
         "imagens":[
         {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara.jpg","titulo":"Foto do CEA","descricao":"Foto da área de lançamento","autor":"Valter Campanato/Agência Brasil"},
         {"caminho":"imagens/pontoturistico/1/vista_aerea_centro_espacial_de_alcantara.jpeg","titulo":"Vista Aérea do CEA","descricao":"Vista Aérea do CEA","autor":"Agência Espacial Brasileira (AEB)"},
-        {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara_logo.pngg","titulo":"Logo do Centro Espacial de Alcântara","descricao":"Logo do CEA","autor":"Força Aérea Brasileira (FAB)"}
+        {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara_logo.png","titulo":"Logo do Centro Espacial de Alcântara","descricao":"Logo do CEA","autor":"Força Aérea Brasileira (FAB)"}
         ]
     },
     {"nome":"Praça da Matriz Alcântara","descricao":"A Praça da Matriz, localizada no coração de Alcântara, é um dos principais pontos de encontro na cidade. Ela abriga a Igreja de Nossa Senhora do Rosário dos Pretos, um belo exemplar da arquitetura colonial, e também é cercada por casarões históricos. É um lugar perfeito para relaxar, observar a atmosfera tranquila da cidade e apreciar a vista. A Praça da Matriz é cercada por casarões históricos, que contam a história da região. Essas construções antigas são testemunhas do passado e adicionam charme à praça. A simplicidade e rusticidade da praça rendem boas fotos em diversos ângulos. Se você gosta de capturar momentos históricos, este é o lugar ideal. ","localizacao":{"id":1,"endereco": "Rua das Mercês, 526, Matriz ","nome": "Praça da Matriz de Alcântara","cidade": {"nome": "Alcântara","sigla":"alc"}, 
