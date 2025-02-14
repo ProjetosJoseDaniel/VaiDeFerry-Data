@@ -15,7 +15,7 @@
         "imagens":[
         {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara.jpg","titulo":"Foto do CEA","descricao":"Foto da área de lançamento","autor":"Valter Campanato/Agência Brasil"},
         {"caminho":"imagens/pontoturistico/1/vista_aerea_centro_espacial_de_alcantara.jpeg","titulo":"Vista Aérea do CEA","descricao":"Vista Aérea do CEA","autor":"Agência Espacial Brasileira (AEB)"},
-        {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara_logo.pngg","titulo":"Logo do Centro Espacial de Alcântara","descricao":"Logo do CEA","autor":"Força Aérea Brasileira (FAB)"}
+        {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara_logo.png","titulo":"Logo do Centro Espacial de Alcântara","descricao":"Logo do CEA","autor":"Força Aérea Brasileira (FAB)"}
         ]
     },
     {"nome":"Praça da Matriz Alcântara","descricao":"A Praça da Matriz, localizada no coração de Alcântara, é um dos principais pontos de encontro na cidade. Ela abriga a Igreja de Nossa Senhora do Rosário dos Pretos, um belo exemplar da arquitetura colonial, e também é cercada por casarões históricos. É um lugar perfeito para relaxar, observar a atmosfera tranquila da cidade e apreciar a vista. A Praça da Matriz é cercada por casarões históricos, que contam a história da região. Essas construções antigas são testemunhas do passado e adicionam charme à praça. A simplicidade e rusticidade da praça rendem boas fotos em diversos ângulos. Se você gosta de capturar momentos históricos, este é o lugar ideal. ","localizacao":{"id":1,"endereco": "Rua das Mercês, 526, Matriz ","nome": "Praça da Matriz de Alcântara","cidade": {"nome": "Alcântara","sigla":"alc"}, 
@@ -174,7 +174,7 @@
 	    {"caminho": "imagens/pontoturistico/3/igreja_sao_jose.jpg", "titulo": "Igreja Matriz de São José", "descricao": "Imagem da Igreja Matriz", "autor": "Autor Desconhecido"}
         ]
     },
-    {"nome": "Praça Santo Antonio", "descricao": "A Praça Santo Antonio de Palmerândia é um dos principais pontos turísticos da cidade, um espaço que mistura tranquilidade, natureza e a cultura local de forma harmônica. Localizada no coração da cidade, a praça é um local de encontro para moradores e visitantes, oferecendo uma visão acolhedora do estilo de vida simples e tranquilo da região.", "localizacao": {"id": 1, "endereco": "Avenida Marechal Eurico Gaspar Dutra, 330, Centro", "nome": "Praça Santo Antonio", "cidade": {"nome": "Palmeirândia", "sigla": "pld"}, "latitude": -26.455152089787200, "longitude": -4.489520536994620},
+    {"nome": "Praça Santo Antonio", "descricao": "A Praça Santo Antonio de Palmeirândia é um dos principais pontos turísticos da cidade, um espaço que mistura tranquilidade, natureza e a cultura local de forma harmônica. Localizada no coração da cidade, a praça é um local de encontro para moradores e visitantes, oferecendo uma visão acolhedora do estilo de vida simples e tranquilo da região.", "localizacao": {"id": 1, "endereco": "Avenida Marechal Eurico Gaspar Dutra, 330, Centro", "nome": "Praça Santo Antonio", "cidade": {"nome": "Palmeirândia", "sigla": "pld"}, "latitude": -26.455152089787200, "longitude": -4.489520536994620},
         "logo": "imagens/pontoturistico/7/praça_santoantonio.jpg",
         "imagens": [
             {"caminho": "imagens/pontoturistico/7/praça_santoantonio.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"},
@@ -190,5 +190,53 @@
 	    {"caminho": "imagens/pontoturistico/7/igreja_cruzeiro.jpg", "titulo": "Igreja de Nossa Senhora da Conceição", "descricao": "Imagem da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"},
 	    {"caminho": "imagens/pontoturistico/7/igreja_interior_cruzeiro.jpg", "titulo": "Interior da Igreja de Nossa Senhora da Conceição", "descricao": "Imagem do interior da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"}
         ]
+    },
+    {"nome": "Estátua de São Sebastião", "descricao": "É um ponto localizado no morro mais alto da cidade, onde fica localizado o padroeiro da cidade, São Sebastião.","localizacao": {"id": 1, "endereco": "Morro de São Sebastião, s/n, Centro", "nome": "Estátua de São Sebastião", "cidade": {"nome": "Peri-Mirim", "sigla": "pim"}, "latitude": -2.577064090403940, "longitude": -4.485611153437540},
+        "logo": "imagens/pontoturistico/9/saosebastiao_logo.jpg",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/9/saosebastiao1.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/saosebastiao2.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/saosebastiao3.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"}
+	]
+    },
+    {"nome": "Praça de São Sebastião", "descricao": "A Praça de São Sebastião é um espaço público central, ideal para convivência e lazer. Com uma igreja histórica como destaque, a praça oferece áreas abertas e acessíveis, tornando-se um ponto de encontro para eventos, passeios e atividades comunitárias.", "localizacao": {"id": 1, "endereco": "Av. Duque de Caxias, Centro", "nome": "Praça de São Sebastião", "cidade": {"nome": "Peri-Mirim", "sigla": "pim"}, "latitude": -25.777238730299100, "longitude": -4.485419462564500},
+        "logo": "imagens/pontoturistico/9/praca_saosebastiao_logo.png",
+        "imagens": [
+            {"caminho": "imagens/pontoturistico/9/praca_saosebastiao1.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/praca_saosebastiao2.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"},
+	    {"caminho": "imagens/pontoturistico/9/praca_saosebastiao3.jpg", "titulo": "Praça de São Sebastião", "descricao": "Imagem da Praça de São Sebastião.", "autor": "Autor Desconhecido"}
+	]
+    },
+    {"nome": "Cais do Porto", "descricao": "O ambiente é marcado pela presença de embarcações de pequeno e médio porte, com uma movimentação constante de barcaças, canoas e outros tipos de barcos típicos da região.\n\nEm termos de infraestrutura, o cais de Bequimão é simples, mas funcional. Não possui grandes instalações ou serviços como portos de grandes centros urbanos, mas cumpre um papel crucial na ligação da cidade com outras áreas do estado e até mesmo com o litoral, através do sistema fluvial. A área ao redor do cais é relativamente tranquila, cercada por paisagens naturais, como manguezais e vegetação típica de áreas ribeirinhas, que são características da região.\n\nO local também é uma importante via de acesso para turistas e moradores que se deslocam para outras partes do município ou para a capital São Luís, especialmente em períodos de festas tradicionais, quando a movimentação no cais tende a aumentar. Contudo, como a infraestrutura ainda é simples, o cais não é muito utilizado para grandes operações comerciais ou logísticas, sendo mais voltado para atividades de pequeno porte e de circulação local.", "localizacao": {"id": 1, "endereco": "R. Beira Rio, 837-699, Centro", "nome": "Cais do Porto", "cidade": {"nome": "Bequimão", "sigla": "bqm"}, "latitude": -2.450039351574670, "longitude": -4.477995490692650},
+    "logo": "imagens/pontoturistico/10/caisdoporto_logo.jpg",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/10/caisdoporto1.jpg", "titulo": "Cais do Porto", "descricao": "Imagem do Cais do Porto", "autor": "Mellquisedeque Allmeida"},
+	{"caminho": "imagens/pontoturistico/10/caisdoporto2.jpg", "titulo": "Cais do Porto", "descricao": "Imagem do Cais do Porto", "autor": "Mellquisedeque Allmeida"},
+	{"caminho": "imagens/pontoturistico/10/caisdoporto3.jpg", "titulo": "Cais do Porto", "descricao": "Imagem do Cais do Porto", "autor": "Autor Desconhecido"}
+    ]
+    },
+    {"nome": "Praça da Matriz", "descricao": "A Praça da Bíblia é um dos cartões postais do município de Bequimão, no Maranhão, e foi recentemente requalificada pela prefeitura. A praça recebeu ações de limpeza, pintura e iluminação, e a gestão do prefeito João Martins determinou que essas ações serão realizadas de forma permanente.","localizacao": {"id": 1, "endereco": "R. Cap José Castro, Centro", "nome": "Praça da Matriz", "cidade": {"nome": "Bequimão","sigla": "bqm"}, "latitude": -2.449863906894570, "longitude": -44.780566821387700},
+    "logo": "imagens/pontoturistico/10/pracabequimao_logo.png",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/10/pracabequimao1.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/10/pracabequimao2.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/10/pracabequimao3.jpg", "titulo": "Praça da Matriz", "descricao": "Imagem da Praça da Matriz", "autor": "Autor Desconhecido"}
+    ]
+    },
+    {"nome": "Parque Aquático Aventura", "descricao": "O Aventura Parque é um popular parque aquático localizado no povoado Ventura, na entrada da cidade de Mirinzal, no Maranhão. Ele é considerado um dos principais centros de lazer da região, oferecendo uma infraestrutura completa para visitantes de todas as idades. O parque conta com várias piscinas, brinquedos aquáticos, um bar molhado, além de restaurante e lanchonetes, tornando-se uma opção ideal para os finais de semana e feriados.", "localizacao": {"id": 1, "endereco": "Povoado Ventura Km 02", "nome": "Parque Aquático Aventura", "cidade": {"nome": "Mirinzal", "sigla": "mrz"}, "latitude": -2.107847710947380, "longitude": -4.477992784714470},
+    "logo": "imagens/pontoturistico/11/aventuraparque_logo.jpg",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/11/aventuraparque1.JPG", "titulo": "Parque Aquático Aventura", "descricao": "Imagem do Parque Aventura", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/11/aventuraparque2.JPG", "titulo": "Parque Aquático Aventura", "descricao": "Imagem do Parque Aventura", "autor": "Autor Desconhecido"},
+        {"caminho": "imagens/pontoturistico/11/aventuraparque3.JPG", "titulo": "Parque Aquático Aventura", "descricao": "Imagem do Parque Aventura", "autor": "Autor Desconhecido"}
+    ]
+    },
+    {"nome": "Praça de Eventos de Mirinzal", "descricao": "A praça de eventos de Mirinzal, Maranhão, é um espaço central usado para celebrações e eventos culturais. Conta com um palco para apresentações, área ampla para o público e iluminação adequada, sendo um ponto de encontro para a comunidade.", "localizacao": {"id": 1, "endereco": "Av Governador Antônio Dino", "nome": "Praça de Eventos de Mirinzal", "cidade": {"nome": "Mirinzal", "sigla": "mrz"}, "latitude": -2.067663144589150, "longitude": -44.783236057538100},
+    "logo": "imagens/pontoturistico/11/pracamirinzal_logo.jpeg",
+    "imagens": [
+        {"caminho": "imagens/pontoturistico/11/pracamirinzal1.jpg", "titulo": "Praça de Eventos de Mirinzal", "descricao": "Imagem da Praça de Eventos de Mirinzal", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/11/pracamirinzal2.jpg", "titulo": "Praça de Eventos de Mirinzal", "descricao": "Imagem da Praça de Eventos de Mirinzal", "autor": "Autor Desconhecido"},
+	{"caminho": "imagens/pontoturistico/11/pracamirinzal3.jpg", "titulo": "Praça de Eventos de Mirinzal", "descricao": "Imagem da Praça de Eventos de Mirinzal", "autor": "Autor Desconhecido"}
+    ]
     }
 ]
