@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "01/04/2025",
+    "baixaMar1Hora": "6:00",
+    "preiaMar1Hora": "12:00",
+    "baixaMar2Hora": "18:00",
+    "preiaMar2Hora": "23:00"
+  },
