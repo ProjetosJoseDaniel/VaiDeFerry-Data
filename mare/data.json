@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "01/04/2025",
+    "baixaMar1Hora": "6:00",
+    "preiaMar1Hora": "12:00",
+    "baixaMar2Hora": "18:00",
+    "preiaMar2Hora": "23:00"
+  },
+  {
+    "id": 2,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "02/04/2025",
+    "baixaMar1Hora": "6:30",
+    "preiaMar1Hora": "12:30",
+    "baixaMar2Hora": "18:30",
+    "preiaMar2Hora": "23:30"
+  },
+  {
+    "id": 3,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "03/04/2025",
+    "baixaMar1Hora": "7:00",
+    "preiaMar1Hora": "13:00",
+    "baixaMar2Hora": "19:00",
+    "preiaMar2Hora": "00:00"
+  },
+  {
+    "id": 4,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "04/04/2025",
+    "baixaMar1Hora": "7:30",
+    "preiaMar1Hora": "13:30",
+    "baixaMar2Hora": "19:30",
+    "preiaMar2Hora": "00:30"
+  },
+  {
+    "id": 5,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "05/04/2025",
+    "baixaMar1Hora": "8:00",
+    "preiaMar1Hora": "14:00",
+    "baixaMar2Hora": "20:00",
+    "preiaMar2Hora": "01:00"
+  },
+  {
+    "id": 6,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "06/04/2025",
+    "baixaMar1Hora": "8:30",
+    "preiaMar1Hora": "14:30",
+    "baixaMar2Hora": "20:30",
+    "preiaMar2Hora": "01:30"
+  },
+  {
+    "id": 7,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "07/04/2025",
+    "baixaMar1Hora": "9:00",
+    "preiaMar1Hora": "15:00",
+    "baixaMar2Hora": "21:00",
+    "preiaMar2Hora": "02:00"
+  },
+  {
+    "id": 8,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "08/04/2025",
+    "baixaMar1Hora": "9:30",
+    "preiaMar1Hora": "15:30",
+    "baixaMar2Hora": "21:30",
+    "preiaMar2Hora": "02:30"
+  },
+  {
+    "id": 9,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "09/04/2025",
+    "baixaMar1Hora": "10:00",
+    "preiaMar1Hora": "16:00",
+    "baixaMar2Hora": "22:00",
+    "preiaMar2Hora": "03:00"
+  },
+  {
+    "id": 10,
+    "cidade": {"nome": "Sao Luis", "sigla": "slz"},
+    "data": "10/04/2025",
+    "baixaMar1Hora": "10:30",
+    "preiaMar1Hora": "16:30",
+    "baixaMar2Hora": "22:30",
+    "preiaMar2Hora": "03:30"
+  }
+]
