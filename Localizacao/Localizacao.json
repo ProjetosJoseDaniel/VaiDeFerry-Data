@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Terminal Ponta da Espera",
+    "cidade": {
+      "id": 1
+    },
+    "lat": -2.5883,
+    "log": -44.2825,
+    "endereco": "Av. dos Portugueses, s/n - Vila Bacanga, São Luís - MA, 65085-580",
+    "ativo": true
+  },
+  {
+    "nome": "Terminal Cujupe",
+    "cidade": {
+      "id": 2
+    },
+    "lat": -2.3958,
+    "log": -44.4069,
+    "endereco": "Terminal Marítimo do Cujupe, s/n, Alcântara - MA, 65250-000",
+    "ativo": true
+  },
+  {
+    "nome": "Porto do Itaqui",
+    "cidade": {
+      "id": 1
+    },
+    "lat": -2.5803,
+    "log": -44.3622,
+    "endereco": "Av. dos Portugueses, s/n - Vila Itaqui, São Luís - MA, 65085-370",
+    "ativo": true
+  },
+  {
+    "nome": "Terminal de Pinheiro",
+    "cidade": {
+      "id": 3
+    },
+    "lat": -2.5236,
+    "log": -45.0814,
+    "endereco": "Rodovia MA-106, Km 5, s/n, Pinheiro - MA, 65200-000",
+    "ativo": true
+  }
+]
