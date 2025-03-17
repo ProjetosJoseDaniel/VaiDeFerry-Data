@@ -1,13 +1,13 @@
 [
   {
-    "descricao": "Aquaviário",
+    "descricao": "Terrestre",
     "ativo": true,
     "meioDeTransporte": {
       "id": 1
     }
   },
   {
-    "descricao": "Terrestre",
+    "descricao": "Aquaviário",
     "ativo": true,
     "meioDeTransporte": {
       "id": 2

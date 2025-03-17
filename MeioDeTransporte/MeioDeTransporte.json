@@ -1,0 +1,10 @@
+[
+  {
+    "descricao": "Ônibus",
+    "ativo": true
+  },
+  {
+    "descricao": "Ferryboat",
+    "ativo": true
+  }
+]
