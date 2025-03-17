@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Internacional Maritma",
+    "descricao": "Somos uma empresa brasileira líder em serviços de apoio marítimo e portuário. Mais de 35 anos no mercado e a excelência técnica de nossa equipe comprovam nossa experiência e expertise",
+    "cnpj": "12345678000190",
+    "telefone": "(98) 98142-7672",
+    "email": "contato@internacionalmaritima.com.br",
+    "homepage": "https://www.internacionalmaritima.com.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoDeTransporte": {
+      "id": 2
+    },
+    "comoComprarPassagem": "Acesse nosso site oficial https://www.internacionalmaritima.com.br/ ou entre em contato via WhatsApp (98) 93220-1920"
+  },
+  {
+    "nome": "Servi-Porto",
+    "descricao": "A SERVI-PORTO Serviços Portuários Ltda é a maior empresa do segmento de transporte aquaviário do Estado do Maranhão. Desenvolve as atividades de Apoio Portuário, Autorizada pela ANTAQ, Resolução n°1211 e do Termo de Autorização n° 500.",
+    "cnpj": "23456789000191",
+    "telefone": "(98) 3220-1920",
+    "email": "contato@serviporto.com.br",
+    "homepage": "https://www.serviporto.com.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoDeTransporte": {
+      "id": 2
+    },
+    "comoComprarPassagem": "Passagens disponíveis em nosso site ou nos guichês dos terminais"
+  },
+  {
+    "nome": "Henvil",
+    "descricao": "A Henvil Transportes Marítimos iniciou suas atividades em abril de 1994 com transporte de veículos e passageiros. Devido à caminhada de sucesso, responsabilidade e influência no desenvolvimento de uma região, conquistou múltiplas travessias.",
+    "cnpj": "34567890000192",
+    "telefone": "(98) 98556-6767",
+    "email": "contato@henvil.com.br",
+    "homepage": "https://www.henvil.com.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoDeTransporte": {
+      "id": 2
+    },
+    "comoComprarPassagem": "Compre suas passagens nos terminais ou pelo WhatsApp (98) 98556-6767"
+  },
+  {
+    "nome": "Leo Lobato Transportes",
+    "descricao": "A LEO LOBATO TRANSPORTES E TURISMO é uma empresa de micro porte com 12 anos de atuação, localizada em Santa Helena, Maranhão. Ela oferece serviços de transporte rodoviário e locação de veículos.",
+    "cnpj": "45678901000193",
+    "telefone": "(98) 98752-9009",
+    "email": "contato@leolobato.com.br",
+    "homepage": "https://www.leolobato.com.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoDeTransporte": {
+      "id": 1
+    },
+    "comoComprarPassagem": "Horários: Turilândia/Sta Helena para São Luís (3:00, 7:30, 3:30), Pinheiro para São Luís (3:30, 5:30, 0:30, 5:30, 8:30), São Luís para destinos (7:00, 9:00, 1:00, 4:00, 7:00)"
+  },
+  {
+    "nome": "Oliveira Transportes",
+    "descricao": "Empresa especializada em transporte rodoviário de passageiros, oferecendo trajetos entre Turiaçu e São Luís.",
+    "cnpj": "56789012000194",
+    "telefone": "(98) 98412-6112",
+    "email": "contato@oliveiratransportes.com.br",
+    "homepage": "https://www.oliveiratransportes.com.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoDeTransporte": {
+      "id": 1
+    },
+    "comoComprarPassagem": "Horários: Turiaçu para São Luís (05:00, 11:00), São Luís para Turiaçu (02:00, 13:00)"
+  },
+  {
+    "nome": "Jadson Transportes",
+    "descricao": "A Jadson Transporte se destaca pela qualidade e conforto de seus ônibus, proporcionando uma experiência de viagem excepcional com sistema de ar condicionado eficiente e ônibus LUXO equipados com banheiro limpo e acessível.",
+    "cnpj": "67890123000195",
+    "telefone": "(98) 98435-5914",
+    "email": "contato@jadsontransporte.com.br",
+    "homepage": "https://www.jadsontransporte.com.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoDeTransporte": {
+      "id": 1
+    },
+    "comoComprarPassagem": "Horários: Porto Rico x São Luís (01:30 e 12:00), São Luís x Porto Rico (06:00 e 11:00)"
+  }
+]
