@@ -1,0 +1,44 @@
+[
+  {
+    "cidade": {
+      "id": 1
+    },
+    "data": "2025-04-01",
+    "baixaMar1Hora": 6,
+    "preiaMar1Hora": 12,
+    "baixaMar2Hora": 18,
+    "preiaMar2Hora": 23,
+    "baixaMar1Alt": 30,
+    "preiaMar1Alt": 320,
+    "baixaMar2Alt": 25,
+    "preiaMar2Alt": 310
+  },
+  {
+    "cidade": {
+      "id": 1
+    },
+    "data": "2025-04-02",
+    "baixaMar1Hora": 6,
+    "preiaMar1Hora": 12,
+    "baixaMar2Hora": 18,
+    "preiaMar2Hora": 23,
+    "baixaMar1Alt": 35,
+    "preiaMar1Alt": 325,
+    "baixaMar2Alt": 30,
+    "preiaMar2Alt": 315
+  },
+  {
+    "cidade": {
+      "id": 1
+    },
+    "data": "2025-04-03",
+    "baixaMar1Hora": 7,
+    "preiaMar1Hora": 13,
+    "baixaMar2Hora": 19,
+    "preiaMar2Hora": 0,
+    "baixaMar1Alt": 40,
+    "preiaMar1Alt": 330,
+    "baixaMar2Alt": 35,
+    "preiaMar2Alt": 320
+  }
+]
