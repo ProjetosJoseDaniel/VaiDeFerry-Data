@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Ponta da Espera",
+    "descricao": "O Porto Ponta da Espera, localizado em São Luís, Maranhão, é uma instalação portuária estratégica na Baía de São Marcos. Ele oferece serviços de transporte de balsas que conectam a ilha ao continente.",
+    "cnpj": "03214792000140",
+    "telefone": "(98) 3216-6573",
+    "email": "contato@pontadaespera.ma.gov.br",
+    "homepage": "http://www.pontadaespera.ma.gov.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoLocalizacaoPorto": {
+      "id": 4
+    }
+  },
+  {
+    "nome": "Cujupe",
+    "descricao": "O Porto do Cujupe, localizado em Alcântara, Maranhão, é uma importante infraestrutura portuária na Baixada Maranhense. Serve como ponto de travessia para a Ilha de São Luís, conectando-a ao continente por meio de balsas.",
+    "cnpj": "04533142000123",
+    "telefone": "(98) 3216-6590",
+    "email": "contato@portocujupe.ma.gov.br",
+    "homepage": "http://www.portocujupe.ma.gov.br",
+    "ativo": true,
+    "likes": 0,
+    "deslikes": 0,
+    "tipoLocalizacaoPorto": {
+      "id": 4
+    }
+  }
+]

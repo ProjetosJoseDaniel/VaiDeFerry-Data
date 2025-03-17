@@ -1,0 +1,18 @@
+[
+  {
+    "descricao": "Porto Marítimo",
+    "id": 1
+  },
+  {
+    "descricao": "Porto Fluvial",
+    "id": 2
+  },
+  {
+    "descricao": "Porto Lacustre",
+    "id": 3
+  },
+  {
+    "descricao": "Porto Estuarino",
+    "id": 4
+  }
+]
