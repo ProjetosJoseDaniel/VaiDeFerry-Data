@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Pinheiro",
+    "descricao": "Cidade localizada no estado do Maranhão",
+    "estado": {
+      "id": 1
+    }
+  },
+  {
+    "nome": "São Luís",
+    "descricao": "Capital do estado do Maranhão",
+    "estado": {
+      "id": 1
+    }
+  },
+  {
+    "nome": "Alcântara",
+    "descricao": "Cidade histórica do Maranhão",
+    "estado": {
+      "id": 1
+    }
+  },
+  {
+    "nome": "São Bento",
+    "descricao": "Cidade localizada no estado do Maranhão",
+    "estado": {
+      "id": 1
+    }
+  },
+  {
+    "nome": "Bequimão",
+    "descricao": "Cidade localizada no estado do Maranhão",
+    "estado": {
+      "id": 1
+    }
+  }
+]
