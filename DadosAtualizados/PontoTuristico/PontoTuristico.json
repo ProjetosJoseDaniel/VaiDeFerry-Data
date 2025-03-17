@@ -1,0 +1,416 @@
+[
+  {
+    "nome": "Centro de Lançamento de Alcântara (CLA)",
+    "descricao": "A casa é tipo um 'museu' do Centro de Lançamento de Alcântara (CLA). Para quem não sabe, a cidade maranhense é desde 1983 sede da base brasileira de lançamento de foguetes. A escolha de Alcântara para sediar o projeto se deve por sua proximidade com a linha do Equador, que segundo os especialistas é favorável para os lançamentos.",
+    "localizacao": {
+      "id": 1
+    },
+    "hotel": "Pousada do Foguete",
+    "restaurante": "Restaurante Espacial",
+    "comunidade": "Centro de Alcântara",
+    "ativo": true,
+    "dataCriacao": "2023-05-15T14:30:00Z",
+    "dataAtualizacao": "2023-05-15T14:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 1
+    }
+  },
+  {
+    "nome": "Centro Espacial de Alcântara (CEA)",
+    "descricao": "Centro Espacial de Alcântara (CEA), anteriormente conhecido como Centro de Lançamento de Alcântara, é um espaçoporto da Agência Espacial Brasileira no município de Alcântara, localizada na costa atlântica norte do Brasil, no estado do Maranhão.",
+    "localizacao": {
+      "id": 2
+    },
+    "hotel": "Hotel Aeroespacial",
+    "restaurante": "Cantina da Base",
+    "comunidade": "Comunidade Técnica CEA",
+    "ativo": true,
+    "dataCriacao": "2023-06-20T09:15:00Z",
+    "dataAtualizacao": "2023-06-20T09:15:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 2
+    }
+  },
+  {
+    "nome": "Praça da Matriz Alcântara",
+    "descricao": "A Praça da Matriz, localizada no coração de Alcântara, é um dos principais pontos de encontro na cidade. Ela abriga a Igreja de Nossa Senhora do Rosário dos Pretos, um belo exemplar da arquitetura colonial, e também é cercada por casarões históricos.",
+    "localizacao": {
+      "id": 3
+    },
+    "hotel": "Pousada Colonial",
+    "restaurante": "Sabor Histórico",
+    "comunidade": "Centro Histórico",
+    "ativo": true,
+    "dataCriacao": "2023-07-05T11:45:00Z",
+    "dataAtualizacao": "2023-07-05T11:45:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 3
+    }
+  },
+  {
+    "nome": "Enzo Park Hotel",
+    "descricao": "Localizado na cidade de Pinheiro, famosa pelo carnaval mais animado da baixada maranhense, o Enzo Park Hotel é um ótimo local para se viver bons momentos, pois tem como objetivo oferecer aos seus hóspedes um serviço que preze pela qualidade e excelência.",
+    "localizacao": {
+      "id": 4
+    },
+    "hotel": "Enzo Park Hotel",
+    "restaurante": "Restaurante Enzo Gourmet",
+    "comunidade": "Pinheiro",
+    "ativo": true,
+    "dataCriacao": "2023-08-15T13:20:00Z",
+    "dataAtualizacao": "2023-08-15T13:20:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 4
+    }
+  },
+  {
+    "nome": "Parque Ambiental do Pericumã",
+    "descricao": "Instalado às margens do rio Pericumã no bairro da Matriz, trata-se de um dos maiores parques ambientais urbanos do Maranhão, com 40 mil metros de área construída, 16 edificações e 18 equipamentos de lazer.",
+    "localizacao": {
+      "id": 5
+    },
+    "hotel": "Pousada do Rio",
+    "restaurante": "Sabor Natural",
+    "comunidade": "Matriz",
+    "ativo": true,
+    "dataCriacao": "2023-09-10T15:30:00Z",
+    "dataAtualizacao": "2023-09-10T15:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 5
+    }
+  },
+  {
+    "nome": "Açaí Club Hotel",
+    "descricao": "Açaí Club Hotel fica em Pinheiro. Sinta-se em casa em um de nossos 51 quartos com ar-condicionado e TVs de tela plana. Wi-Fi de cortesia está disponível para manter você conectado.",
+    "localizacao": {
+      "id": 6
+    },
+    "hotel": "Açaí Club Hotel",
+    "restaurante": "Restaurante Açaí Gourmet",
+    "comunidade": "João Castelo",
+    "ativo": true,
+    "dataCriacao": "2023-10-05T10:45:00Z",
+    "dataAtualizacao": "2023-10-05T10:45:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 6
+    }
+  },
+  {
+    "nome": "Parque do Babaçú",
+    "descricao": "A 2 km do Centro, o Parque do Babaçú destaca-se como um espaço dedicado à prática de esportes e lazer, incluindo uma praça de alimentação com restaurante.",
+    "localizacao": {
+      "id": 7
+    },
+    "hotel": "Pousada Central",
+    "restaurante": "Restaurante do Parque",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2023-11-15T10:30:00Z",
+    "dataAtualizacao": "2023-11-15T10:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 10
+    }
+  },
+  {
+    "nome": "Igreja Matriz",
+    "descricao": "Uma das principais praças de Pinheiro está localizada no primeiro bairro da cidade, o local onde a história começou. Nela, encontra-se a Igreja Matriz de Santo Inácio de Loyola, padroeiro do município.",
+    "localizacao": {
+      "id": 8
+    },
+    "hotel": "Pousada Santo Inácio",
+    "restaurante": "Café da Praça",
+    "comunidade": "Matriz",
+    "ativo": true,
+    "dataCriacao": "2023-11-20T14:45:00Z",
+    "dataAtualizacao": "2023-11-20T14:45:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 11
+    }
+  },
+  {
+    "nome": "Praça Centenário",
+    "descricao": "A Praça Centenário de Pinheiro, também conhecida como Praça da Família após sua revitalização, é um importante marco histórico e social da cidade.",
+    "localizacao": {
+      "id": 9
+    },
+    "hotel": "Hotel Central",
+    "restaurante": "Restaurante Família",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2023-12-05T09:15:00Z",
+    "dataAtualizacao": "2023-12-05T09:15:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 12
+    }
+  },
+  {
+    "nome": "Igreja Matriz de São Bento",
+    "descricao": "A Igreja Matriz de São Bento, localizada no município de São Bento, Maranhão, é um importante marco religioso e cultural da cidade.",
+    "localizacao": {
+      "id": 10
+    },
+    "hotel": "Pousada São Bento",
+    "restaurante": "Sabores da Terra",
+    "comunidade": "Matriz",
+    "ativo": true,
+    "dataCriacao": "2023-12-15T16:20:00Z",
+    "dataAtualizacao": "2023-12-15T16:20:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 13
+    }
+  },
+  {
+    "nome": "Praça Carlos Reis",
+    "descricao": "É um espaço público central e de grande importância para a comunidade local. A praça é um ponto de encontro dos moradores e visitantes, oferecendo um espaço para lazer e convivência social.",
+    "localizacao": {
+      "id": 11
+    },
+    "hotel": "Hotel São Bento",
+    "restaurante": "Restaurante da Praça",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2024-01-10T11:30:00Z",
+    "dataAtualizacao": "2024-01-10T11:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 14
+    }
+  },
+  {
+    "nome": "Portal de São Bento",
+    "descricao": "O Portal de São Bento, localizado na entrada da cidade, é um dos marcos arquitetônicos que representam a hospitalidade e a cultura local.",
+    "localizacao": {
+      "id": 12
+    },
+    "hotel": "Pousada do Portal",
+    "restaurante": "Sabores de São Bento",
+    "comunidade": "Entrada da Cidade",
+    "ativo": true,
+    "dataCriacao": "2024-01-20T13:45:00Z",
+    "dataAtualizacao": "2024-01-20T13:45:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 15
+    }
+  },
+  {
+    "nome": "Praça Remedinho",
+    "descricao": "Esta praça é conhecida por seu papel central nas celebrações religiosas e eventos culturais da cidade, destacando-se como um ponto de encontro para a comunidade.",
+    "localizacao": {
+      "id": 13
+    },
+    "hotel": "Pousada dos Remédios",
+    "restaurante": "Restaurante da Praça",
+    "comunidade": "Outra Banda",
+    "ativo": true,
+    "dataCriacao": "2024-02-05T09:20:00Z",
+    "dataAtualizacao": "2024-02-05T09:20:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 16
+    }
+  },
+  {
+    "nome": "Casa de Cultura José Adriano da Costa",
+    "descricao": "A Casa de Cultura José Adriano da Costa é um importante espaço dedicado à promoção e valorização da cultura local.",
+    "localizacao": {
+      "id": 14
+    },
+    "hotel": "Pousada Cultural",
+    "restaurante": "Café Cultural",
+    "comunidade": "Matriz",
+    "ativo": true,
+    "dataCriacao": "2024-02-15T14:30:00Z",
+    "dataAtualizacao": "2024-02-15T14:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 17
+    }
+  },
+  {
+    "nome": "Igreja Nossa Senhora da Conceição",
+    "descricao": "Um dos principais monumentos históricos de Viana, que se encontra no centro da cidade.",
+    "localizacao": {
+      "id": 15
+    },
+    "hotel": "Pousada Central",
+    "restaurante": "Sabor Tradicional",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2024-03-01T10:15:00Z",
+    "dataAtualizacao": "2024-03-01T10:15:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 18
+    }
+  },
+  {
+    "nome": "Parque Dilú Melo",
+    "descricao": "O Parque Dilú Melo é um dos principais atrativos de Viana, localizado na região da Baixada Maranhense.",
+    "localizacao": {
+      "id": 16
+    },
+    "hotel": "Pousada do Parque",
+    "restaurante": "Sabores Naturais",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2024-03-15T16:45:00Z",
+    "dataAtualizacao": "2024-03-15T16:45:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 19
+    }
+  },
+  {
+    "nome": "Praia do Itapéua",
+    "descricao": "A Praia do Itapéua, em Cajapió, Maranhão, é uma área tranquila na Baixada Maranhense, conhecida por suas águas calmas.",
+    "localizacao": {
+      "id": 17
+    },
+    "hotel": "Pousada da Praia",
+    "restaurante": "Frutos do Mar",
+    "comunidade": "Região Costeira",
+    "ativo": true,
+    "dataCriacao": "2024-04-01T11:30:00Z",
+    "dataAtualizacao": "2024-04-01T11:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 20
+    }
+  },
+  {
+    "nome": "Cais da Alegria de Cajapió",
+    "descricao": "O Cais da Alegria, localizado em Cajapió, Maranhão, é um ponto de grande importância cultural e social para a cidade.",
+    "localizacao": {
+      "id": 18
+    },
+    "hotel": "Pousada do Rio",
+    "restaurante": "Sabores Ribeirinhos",
+    "comunidade": "Beira Rio",
+    "ativo": true,
+    "dataCriacao": "2024-04-10T08:30:00Z",
+    "dataAtualizacao": "2024-04-10T08:30:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 21
+    }
+  },
+  {
+    "nome": "Praia de Araoca",
+    "descricao": "A praia de Araoca é uma das mais belas praias do litoral maranhense.",
+    "localizacao": {
+      "id": 19
+    },
+    "hotel": "Pousada Beira-Mar",
+    "restaurante": "Frutos do Mar",
+    "comunidade": "Vila dos Pescadores",
+    "ativo": true,
+    "dataCriacao": "2024-04-15T10:45:00Z",
+    "dataAtualizacao": "2024-04-15T10:45:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 22
+    }
+  },
+  {
+    "nome": "Igreja Matriz de São José",
+    "descricao": "A Igreja Matriz de São José, em Guimarães, Maranhão, é um templo religioso histórico que simboliza a fé e a tradição do povo local.",
+    "localizacao": {
+      "id": 20
+    },
+    "hotel": "Pousada São José",
+    "restaurante": "Café da Praça",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2024-04-20T14:20:00Z",
+    "dataAtualizacao": "2024-04-20T14:20:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 23
+    }
+  },
+  {
+    "nome": "Praça Santo Antonio",
+    "descricao": "A Praça Santo Antonio de Palmeirândia é um dos principais pontos turísticos da cidade, um espaço que mistura tranquilidade, natureza e a cultura local de forma harmônica.",
+    "localizacao": {
+      "id": 21
+    },
+    "hotel": "Pousada Central",
+    "restaurante": "Sabor Caseiro",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2024-04-25T11:15:00Z",
+    "dataAtualizacao": "2024-04-25T11:15:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 24
+    }
+  },
+  {
+    "nome": "Igreja de Nossa Senhora da Conceição",
+    "descricao": "A Igreja Matriz de Nossa Senhora da Conceição, em Palmeirândia, é uma construção histórica de estilo colonial português.",
+    "localizacao": {
+      "id": 22
+    },
+    "hotel": "Pousada Cruzeiro",
+    "restaurante": "Café Santo",
+    "comunidade": "Cruzeiro",
+    "ativo": true,
+    "dataCriacao": "2024-04-30T15:40:00Z",
+    "dataAtualizacao": "2024-04-30T15:40:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 25
+    }
+  },
+  {
+    "nome": "Estátua de São Sebastião",
+    "descricao": "É um ponto localizado no morro mais alto da cidade, onde fica localizado o padroeiro da cidade, São Sebastião.",
+    "localizacao": {
+      "id": 23
+    },
+    "hotel": "Pousada Vista do Morro",
+    "restaurante": "Mirante Café",
+    "comunidade": "Centro",
+    "ativo": true,
+    "dataCriacao": "2024-05-05T09:10:00Z",
+    "dataAtualizacao": "2024-05-05T09:10:00Z",
+    "likes": 0,
+    "deslikes": 0,
+    "imagemPontoTuristico": {
+      "id": 26
+    }
+  }
+]
