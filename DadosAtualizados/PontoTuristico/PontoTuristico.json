@@ -13,9 +13,13 @@
     "dataAtualizacao": "2023-05-15T14:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 1
-    }
+    "imagemPontoTuristico":
+  [
+    {"caminho":"imagens/pontoturistico/1/casa-da-cultura-aeroespacial.jpeg","titulo":"Casa de Cultura Aeroespacial","descricao":"Frente da Casa de Cultura","autor":"Antonio Dantas"},
+    {"caminho":"imagens/pontoturistico/1/casa-da-cultura-aeroespacial2.jpeg","titulo":"Réplica da Sonda 4","descricao":"Foto da Réplica da Sonda 4(modelo brasileiro de foguete) em tamanho real","autor":"Autor Desconhecido"},
+    {"caminho":"imagens/pontoturistico/1/casa-da-cultura-aeroespacial3.jpeg","titulo":"Interior da Casa de Cultura","descricao":"Réplicas em miniatura de foguetes","autor":"Mateus Sousa"}
+  ]
+
   },
   {
     "nome": "Centro Espacial de Alcântara (CEA)",
@@ -31,9 +35,12 @@
     "dataAtualizacao": "2023-06-20T09:15:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 2
-    }
+    "imagemPontoTuristico":
+    [
+      {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara.jpg","titulo":"Foto do CEA","descricao":"Foto da área de lançamento","autor":"Valter Campanato/Agência Brasil"},
+      {"caminho":"imagens/pontoturistico/1/vista_aerea_centro_espacial_de_alcantara.jpeg","titulo":"Vista Aérea do CEA","descricao":"Vista Aérea do CEA","autor":"Agência Espacial Brasileira (AEB)"},
+      {"caminho":"imagens/pontoturistico/1/centro_espacial_de_alcantara_logo.png","titulo":"Logo do Centro Espacial de Alcântara","descricao":"Logo do CEA","autor":"Força Aérea Brasileira (FAB)"}
+    ]
   },
   {
     "nome": "Praça da Matriz Alcântara",
@@ -49,9 +56,12 @@
     "dataAtualizacao": "2023-07-05T11:45:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 3
-    }
+    "imagemPontoTuristico":
+    [
+      {"caminho":"imagens/pontoturistico/1/imagens/pontoturistico/1/praca_da_matriz.jpeg","titulo":"Praça da Matriz","descricao":"Foto da Praça da Matriz","autor":"Cattani Simone"},
+      {"caminho":"imagens/pontoturistico/1/ruinas_da_igreja_de_sao_matias.jpeg","titulo":"Ruínas da Igreja de São Matias","descricao":"Foto das ruínas da Igreja de São Matias","autor":"Kelly Amorim"},
+      {"caminho":"imagens/pontoturistico/1/alcantara.jpg","titulo":"Praça da Matriz","descricao":"Foto da Prça da Matriz","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Enzo Park Hotel",
@@ -67,9 +77,11 @@
     "dataAtualizacao": "2023-08-15T13:20:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 4
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/2/enzo-park-hotel_vista_aerea.jpg","titulo":"Vista Aérea do Enzo Park Hotel","descricao":"Enzo Park Hotel visto de cima","autor":"Gerência do Enzo Park"},
+      {"caminho":"imagens/pontoturistico/2/enzo-park-hotel_interior.jpg","titulo":"Área de piscinas do Enzo Park","descricao":"Interior do Enzo Park","autor":"Gerência do Enzo Park"},
+      {"caminho":"imagens/pontoturistico/2/enzo-park-hotel_entrada.jpg","titulo":"Entrada do Hotel","descricao":"Foto da Entrada do Hotel","autor":"Gerência do Enzo Park"}
+    ]
   },
   {
     "nome": "Parque Ambiental do Pericumã",
@@ -85,9 +97,11 @@
     "dataAtualizacao": "2023-09-10T15:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 5
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/2/apa.jpg","titulo":"Foto do APA","descricao":"Foto do APA","autor":"Prefeitura de Pinheiro"},
+      {"caminho":"imagens/pontoturistico/2/apa_entrada.jpg","titulo":"Foto da entrada do APA","descricao":"Foto da entrda do APA","autor":"Prefeitura de Pinheiro"},
+      {"caminho":"imagens/pontoturistico/2/apa_interior.jpg","titulo":"Foto do APA","descricao":"Foto do APA","autor":"Prefeitura de Pinheiro"}
+    ]
   },
   {
     "nome": "Açaí Club Hotel",
@@ -103,9 +117,11 @@
     "dataAtualizacao": "2023-10-05T10:45:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 6
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/2/acai-club_entrada.jpg","titulo":"Entrada do Açaí Club Hotel","descricao":"Foto da fachada do hotel","autor":"Gerência do Açaí Club Hotel"},
+      {"caminho":"imagens/pontoturistico/2/acai_club_area_piscina.jpg","titulo":"Área de Piscinas do Açaí Club","descricao":"Foto do Interior do Açaí Club","autor":"Wellington Sérgio"},
+      {"caminho":"imagens/pontoturistico/2/acai_club_vista_aerea.jpg","titulo":"Vista Aérea do Açaí Club","descricao":"Açaí Club visto de cima","autor":"Gerência do Açaí Club Hotel"}
+    ]
   },
   {
     "nome": "Parque do Babaçú",
@@ -121,9 +137,11 @@
     "dataAtualizacao": "2023-11-15T10:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 10
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/2/parque_babacu2.jpg","titulo":"Parque do Babaçu","descricao":"Área interna do Parque do Babaçu","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/2/parque_babacu3.jpg","titulo":"Parque do Babaçu","descricao":"Lateral do Parque do Babaçu","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/2/parque_babacu4.jpg","titulo":"Parque do Babaçu","descricao":"Lateral do Parque do Babaçu","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Igreja Matriz",
@@ -139,9 +157,11 @@
     "dataAtualizacao": "2023-11-20T14:45:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 11
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/2/praca_matriz.jpg","titulo":"Praça da Matriz","descricao":"Imagem do centro da Praça da Matriz","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/2/praca_matriz2.jpg","titulo":"Praça da Matriz","descricao":"Imagem da Praça da Matriz","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/2/igreja_matriz.jpg","titulo":"Igreja da Matriz","descricao":"Imagem da Igreja da Matriz","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Praça Centenário",
@@ -157,9 +177,11 @@
     "dataAtualizacao": "2023-12-05T09:15:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 12
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/2/praça_familia.jpeg","titulo":"Praça da Família","descricao":"Foto da logo da Praça da Família","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/2/praca_familia2.jpeg","titulo":"Praça da Família","descricao":"Foto da Praça da Família","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/2/praca_familia_cima.jpg","titulo":"Vista Aérea da Praça da Família","descricao":"Vista Aérea da Praça da Família","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Igreja Matriz de São Bento",
@@ -175,9 +197,11 @@
     "dataAtualizacao": "2023-12-15T16:20:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 13
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/5/praca_matriz_sb.jpeg","titulo":"Praça da Família (Matriz)","descricao":"Logo da Praça da Família","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/praca_matriz_sb3.jpeg","titulo":"Praça da Família (Matriz)","descricao":"Foto da Praça da Família","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/Igreja_matriz_de_São_Bento.jpg","titulo":"Igreja da Matriz","descricao":"Foto da Igreja Matriz","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Praça Carlos Reis",
@@ -193,9 +217,11 @@
     "dataAtualizacao": "2024-01-10T11:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 14
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/5/praca_carlos_reis.jpg","titulo":"Monumento da Praça Carlos Reis","descricao":"Foto do monumento da Praça Carlos Reis","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/praca_carlos_reis2.jpg","titulo":"Praça Carlos Reis","descricao":"Foto da Praça Carlos Reis","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/praca_carlos_reis3.jpg","titulo":"Praça Carlos Reis","descricao":"Foto da Praça Carlos Reis","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Portal de São Bento",
@@ -211,9 +237,11 @@
     "dataAtualizacao": "2024-01-20T13:45:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 15
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/5/portal_SB.jpg","titulo":"Entrada de São Bento","descricao":"Foto da Entrada de São Bento","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/portal_SB.jpg","titulo":"Entrada de São Bento","descricao":"Foto da Entrada de São Bento","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/portal_SB.jpg","titulo":"Entrada de São Bento","descricao":"Foto da Entrada de São Bento","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Praça Remedinho",
@@ -229,9 +257,11 @@
     "dataAtualizacao": "2024-02-05T09:20:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 16
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/5/praca_remedinho2.jpeg","titulo":"Igreja de Nossa Senhora dos Remédios","descricao":"Imagem da Igreja de Nossa Senhora dos Remédios","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/praca_remedinho3.jpeg","titulo":"Praça do Remedinho","descricao":"Foto da Praça do Remedinho","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/praca_remedinho4.jpeg","titulo":"Praça do Remedinho","descricao":"Foto da Praça do Remedinho","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Casa de Cultura José Adriano da Costa",
@@ -247,9 +277,11 @@
     "dataAtualizacao": "2024-02-15T14:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 17
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/5/casa_de_cultura2.jpg","titulo":"Casa de Cultura","descricao":"Foto da entrada da Casa de Cultura","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/casa_de_cultura3.jpg","titulo":"Vestimentas juninas","descricao":"Foto de vestimentas juninas antigas em exibição","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/5/casa_de_cultura4.jpg","titulo":"Eletrodomésticos antigos","descricao":"Eletrodomésticos antigos em exibição","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Igreja Nossa Senhora da Conceição",
@@ -265,9 +297,11 @@
     "dataAtualizacao": "2024-03-01T10:15:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 18
-    }
+    "imagemPontoTuristico": [
+      {"caminho":"imagens/pontoturistico/8/vista_aerea_igreja_viana.jpg","titulo":"Vista Aérea da Igreja Nossa Senhora da Conceição","descricao":"Vista de cima da praça onde fica localizada a igreja.","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/8/igreja_viana.jpg","titulo":"Entrada da Igreja","descricao":"Foto da entrada da Igreja de Nossa Senhora da Conceição","autor":"Autor Desconhecido"},
+      {"caminho":"imagens/pontoturistico/8/igreja_viana2.jpg","titulo":"Foto da Igreja","descricao":"Fto da lateral da Igreja de Nossa Senhora da Conceição","autor":"Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Parque Dilú Melo",
@@ -283,9 +317,11 @@
     "dataAtualizacao": "2024-03-15T16:45:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 19
-    }
+    "imagemPontoTuristico": [
+      {"caminho": "imagens/pontoturistico/8/vista_cima_parque_dilumelo.jpg", "titulo": "Vista Aérea do Parque Dilú Melo", "descricao": "Imagem tirada à noite do parque.", "autor": "Prefeitura de Viana"},
+      {"caminho": "imagens/pontoturistico/8/parque_dilumelo2.jpg", "titulo": "Foto do Parque Dilú Melo", "descricao": "Imagem tirada à noite do parque.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/8/parque_dilu_melo3.jpg", "titulo": "Foto de cima do Parque Dilú Melo", "descricao": "Imagem tirada de cima do parque", "autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Praia do Itapéua",
@@ -301,9 +337,11 @@
     "dataAtualizacao": "2024-04-01T11:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 20
-    }
+    "imagemPontoTuristico": [
+      {"caminho": "imagens/pontoturistico/6/praia_itapeua2.jpg", "titulo": "Praia do Itapéua", "descricao":"Imagem da Praia do Itapéua.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/6/praia_itapeua3.jpg", "titulo": "Praia do Itapéua", "descricao": "Imagem da Praia do Itapéua.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/6/praia_itapeua.jpg", "titulo": "Foto do pôr do sol", "descricao": "Imagem tirada do pôr do sol na praia de Itapéua.", "autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Cais da Alegria de Cajapió",
@@ -319,9 +357,11 @@
     "dataAtualizacao": "2024-04-10T08:30:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 21
-    }
+    "imagemPontoTuristico":  [
+      {"caminho": "imagens/pontoturistico/6/cais_cajapio2.jpg", "titulo": "Pôr do Sol no Cais", "descricao": "Imagem do pôr do sol no cais.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/6/cais_cajapio.jpg", "titulo": "Barco no cais", "descricao": "Imagem de barcos no cais.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/6/cais_cajapio3.jpg", "titulo": "Imagens das águas do cais", "descricao": "Imagem do cais.", "autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Praia de Araoca",
@@ -337,9 +377,11 @@
     "dataAtualizacao": "2024-04-15T10:45:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 22
-    }
+    "imagemPontoTuristico": [
+      {"caminho": "imagens/pontoturistico/3/praia_araoca.jpg", "titulo": "Praia de Araoca","descricao": "Imagem da Praia de Araoca","autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/3/praia_araoca2.jpg", "titulo": "Praia de Araoca","descricao": "Imagem da Praia de Araoca","autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/3/praia_aroca3.jpg", "titulo": "Praia de Araoca","descricao": "Imagem da Praia de Araoca","autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Igreja Matriz de São José",
@@ -355,9 +397,10 @@
     "dataAtualizacao": "2024-04-20T14:20:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 23
-    }
+    "imagemPontoTuristico": [
+      {"caminho": "imagens/pontoturistico/3/padroeiro.jpg", "titulo": "Padroeiro São José", "descricao": "Imagem do santo padroeiro da cidade.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/3/igreja_sao_jose.jpg", "titulo": "Igreja Matriz de São José", "descricao": "Imagem da Igreja Matriz", "autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Praça Santo Antonio",
@@ -373,9 +416,11 @@
     "dataAtualizacao": "2024-04-25T11:15:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 24
-    }
+    "imagemPontoTuristico": [
+      {"caminho": "imagens/pontoturistico/7/praça_santoantonio.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/7/praça_santoantonio2.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/7/praça_santoantonio3.jpg", "titulo": "Praça Santo Antônio", "descricao": "Imagem da igreja e da praça.","autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Igreja de Nossa Senhora da Conceição",
@@ -391,9 +436,11 @@
     "dataAtualizacao": "2024-04-30T15:40:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 25
-    }
+    "imagemPontoTuristico":  [
+      {"caminho": "imagens/pontoturistico/7/igreja_cruzeiro2.jpg", "titulo": "Igreja de Nossa Senhora da Conceição", "descricao": "Imagem da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/7/igreja_cruzeiro.jpg", "titulo": "Igreja de Nossa Senhora da Conceição", "descricao": "Imagem da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/7/igreja_interior_cruzeiro.jpg", "titulo": "Interior da Igreja de Nossa Senhora da Conceição", "descricao": "Imagem do interior da Igreja de Nossa Senhora da Conceição.", "autor": "Autor Desconhecido"}
+    ]
   },
   {
     "nome": "Estátua de São Sebastião",
@@ -409,8 +456,10 @@
     "dataAtualizacao": "2024-05-05T09:10:00Z",
     "likes": 0,
     "deslikes": 0,
-    "imagemPontoTuristico": {
-      "id": 26
-    }
+    "imagemPontoTuristico": [
+      {"caminho": "imagens/pontoturistico/9/saosebastiao1.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/9/saosebastiao2.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"},
+      {"caminho": "imagens/pontoturistico/9/saosebastiao3.jpg", "titulo": "Estátua de São Sebastião", "descricao": "Imagem da estátua do padroeiro da cidade.", "autor": "Autor Desconhecido"}
+    ]
   }
 ]
