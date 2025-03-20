@@ -1,3 +1,4 @@
+
 [
   {
     "nome": "Internacional Maritma",
@@ -10,9 +11,15 @@
     "likes": 0,
     "deslikes": 0,
     "tipoDeTransporte": {
-      "id": 2
+      "id": 1
     },
-    "comoComprarPassagem": "Acesse nosso site oficial https://www.internacionalmaritima.com.br/ ou entre em contato via WhatsApp (98) 93220-1920"
+    "comoComprarPassagem": "Acesse nosso site oficial https://www.internacionalmaritima.com.br/ ou entre em contato via WhatsApp (98) 93220-1920",
+    "imagens":[
+      {"caminho":"imagens/empresas/1/foto1.png","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+      {"caminho":"imagens/empresas/1/foto2.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "},
+      {"caminho":"imagens/empresas/1/foto3.png","titulo":"Foto 3","descricao":" Foto 3","autor":" "}
+    ],
+    "logo": "imagens/empresas/1/main.png"
   },
   {
     "nome": "Servi-Porto",
@@ -27,7 +34,12 @@
     "tipoDeTransporte": {
       "id": 2
     },
-    "comoComprarPassagem": "Passagens disponíveis em nosso site ou nos guichês dos terminais"
+    "comoComprarPassagem": "Passagens disponíveis em nosso site ou nos guichês dos terminais",
+    "imagens":[
+      {"caminho":"imagens/empresas/2/main.jpg","titulo":"Foto 1","descricao":"Foto 1","autor":""},
+      {"caminho":"imagens/empresas/2/main.png","titulo":"Foto 2","descricao":" Foto 2","autor":" "}
+    ],
+    "logo": "imagens/empresas/2/main.png"
   },
   {
     "nome": "Henvil",
@@ -40,9 +52,14 @@
     "likes": 0,
     "deslikes": 0,
     "tipoDeTransporte": {
-      "id": 2
+      "id": 3
     },
-    "comoComprarPassagem": "Compre suas passagens nos terminais ou pelo WhatsApp (98) 98556-6767"
+    "comoComprarPassagem": "Compre suas passagens nos terminais ou pelo WhatsApp (98) 98556-6767",
+    "imagens":[
+      {"caminho":"imagens/empresas/3/main.png","titulo":"Foto 1","descricao":"Foto 1","fonte":""},
+      {"caminho":"imagens/empresas/3/quemsomos.jpg","titulo":"Foto 2","descricao":" Foto 2","fonte":" "}
+    ],
+    "logo": "imagens/empresas/3/main.png"
   },
   {
     "nome": "Leo Lobato Transportes",
@@ -55,9 +72,11 @@
     "likes": 0,
     "deslikes": 0,
     "tipoDeTransporte": {
-      "id": 1
+      "id": 4
     },
-    "comoComprarPassagem": "Horários: Turilândia/Sta Helena para São Luís (3:00, 7:30, 3:30), Pinheiro para São Luís (3:30, 5:30, 0:30, 5:30, 8:30), São Luís para destinos (7:00, 9:00, 1:00, 4:00, 7:00)"
+    "comoComprarPassagem": "Horários: Turilândia/Sta Helena para São Luís (3:00, 7:30, 3:30), Pinheiro para São Luís (3:30, 5:30, 0:30, 5:30, 8:30), São Luís para destinos (7:00, 9:00, 1:00, 4:00, 7:00)",
+    "imagem": [{"caminho":"imagens/empresas/4/LB.jpg","titulo":"Foto 1","descricao":"Foto 1","fonte":""}],
+    "logo": "imagens/empresas/4/LB.png"
   },
   {
     "nome": "Oliveira Transportes",
@@ -70,9 +89,11 @@
     "likes": 0,
     "deslikes": 0,
     "tipoDeTransporte": {
-      "id": 1
+      "id": 5
     },
-    "comoComprarPassagem": "Horários: Turiaçu para São Luís (05:00, 11:00), São Luís para Turiaçu (02:00, 13:00)"
+    "comoComprarPassagem": "Horários: Turiaçu para São Luís (05:00, 11:00), São Luís para Turiaçu (02:00, 13:00)",
+    "imagem": [{"caminho": "imagens/empresas/5/olv.png","titulo":"Foto 1","descricao":"Foto 1","fonte":""}],
+    "logo": "imagens/empresas/5/olv.png"
   },
   {
     "nome": "Jadson Transportes",
@@ -85,8 +106,10 @@
     "likes": 0,
     "deslikes": 0,
     "tipoDeTransporte": {
-      "id": 1
+      "id": 7
     },
-    "comoComprarPassagem": "Horários: Porto Rico x São Luís (01:30 e 12:00), São Luís x Porto Rico (06:00 e 11:00)"
+    "comoComprarPassagem": "Horários: Porto Rico x São Luís (01:30 e 12:00), São Luís x Porto Rico (06:00 e 11:00)",
+    "imagem": [{"caminho":"imagens/empresas/7/jds.png","titulo":"Foto 1","descricao":"Foto 1","fonte":""}],
+    "logo": "imagens/empresas/7/jds.png"
   }
 ]
